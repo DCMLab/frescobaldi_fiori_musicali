@@ -1,4 +1,8 @@
-# Girolamo Frescobaldi (1583-1643) - Fiori Musicali, op. 12 (1635)
+# README
+
+## Girolamo Frescobaldi (1583-1643) - Fiori Musicali, op. 12 (1635)
+
+### Messa della Domenica
 
 | title                                                             | catalogue_no | filename                                          |
 |-------------------------------------------------------------------|--------------|---------------------------------------------------|
@@ -19,6 +23,11 @@
 | 15. Recercar dopo il Credo                                        | F 12.15      | 12.15_Recercar_dopo_il_Credo.mscx                 |
 | 16. Toccata cromaticha per l’elevatione                           | F 12.16      | 12.16_Toccata_cromaticha_per_l’elevatione.mscx    |
 | 17. Canzon post il Comune                                         | F 12.17      | 12.17_Canzon_post_il_Comune.mscx                  |
+
+### Messa delli Apostoli
+
+| title                                                             | catalogue_no | filename                                          |
+|-------------------------------------------------------------------|--------------|---------------------------------------------------|
 | 18. Toccata avanti la Messa delli Apostoli                        | F 12.18      |                                                   |
 | 19. Kyrie delli Apostoli                                          | F 12.19      |                                                   |
 | 20. Kyrie                                                         | F 12.20      |                                                   |
@@ -36,6 +45,11 @@
 | 32. Recercar con obligo del basso come apare                      | F 12.32      |                                                   |
 | 33. Canzon quarti toni dopo il post Comune                        | F 12.33      |                                                   |
 | 34. Toccata avanti la Messa della Madonna                         | F 12.34      |                                                   |
+
+### Messa della Madonna
+
+| title                                                             | catalogue_no | filename                                          |
+|-------------------------------------------------------------------|--------------|---------------------------------------------------|
 | 35. Kyrie della Madonna                                           | F 12.35      |                                                   |
 | 36. Kyrie                                                         | F 12.36      |                                                   |
 | 37. Christe                                                       | F 12.37      |                                                   |
