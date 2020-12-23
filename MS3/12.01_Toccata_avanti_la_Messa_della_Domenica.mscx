@@ -206,7 +206,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>VI6</name>
+            <name>.Fr6</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -219,7 +219,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>III64</name>
+            <name>IIIs64</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1442,12 +1442,12 @@
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 50</text>
             </Tempo>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Harmony>
             <name>I}</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>whole</durationType>
             <Note>
