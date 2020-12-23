@@ -3,6 +3,7 @@
   <programVersion>3.5.2</programVersion>
   <programRevision>465e7b6</programRevision>
   <Score>
+    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -206,7 +207,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>.Fr6</name>
+            <name>VI6</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -219,7 +220,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>IIIs64</name>
+            <name>III64</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -835,7 +836,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V</name>
+            <name>V}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1006,7 +1007,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>i[i</name>
+            <name>i[i}{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -1190,6 +1191,15 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <name>#vi%2</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
           <Harmony>
             <name>V43</name>
             </Harmony>
