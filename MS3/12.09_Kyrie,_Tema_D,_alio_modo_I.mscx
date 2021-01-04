@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.01">
-  <programVersion>3.5.0</programVersion>
-  <programRevision>43c5553</programRevision>
+  <programVersion>3.5.2</programVersion>
+  <programRevision>465e7b6</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -96,7 +96,7 @@
       <footerFrameWidth>0</footerFrameWidth>
       <Spatium>1.76389</Spatium>
       </Style>
-    <showInvisible>1</showInvisible>
+    <showInvisible>0</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
@@ -168,6 +168,13 @@
           <synti>Fluid</synti>
           <mute>1</mute>
           </Channel>
+        <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="0"/>
+          <synti>Fluid</synti>
+          <mute>1</mute>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -180,16 +187,33 @@
           <Tempo>
             <tempo>3</tempo>
             <followText>1</followText>
+            <offset x="0.380616" y="-10.5061"/>
             <text><sym>metNoteHalfUp</sym> = 90</text>
             </Tempo>
+          <Harmony>
+            <name>.d.i{</name>
+            </Harmony>
           <Rest>
             <offset x="0" y="2"/>
             <durationType>measure</durationType>
             <duration>8/4</duration>
             </Rest>
+          <location>
+            <fractions>-1/1</fractions>
+            </location>
+          <Harmony>
+            <name>VI</name>
+            </Harmony>
+          <location>
+            <fractions>1/2</fractions>
+            </location>
+          <Harmony>
+            <name>iv</name>
+            </Harmony>
           </voice>
         <voice>
           <StaffText>
+            <offset x="-3.55242" y="-9.4555"/>
             <text>Kyrie, Tema D, alio modo I</text>
             </StaffText>
           <Chord>
@@ -203,11 +227,32 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
           <Rest>
             <offset x="0" y="2"/>
             <durationType>measure</durationType>
             <duration>8/4</duration>
             </Rest>
+          <location>
+            <fractions>-3/2</fractions>
+            </location>
+          <Harmony>
+            <name>i6</name>
+            </Harmony>
+          <location>
+            <fractions>1/2</fractions>
+            </location>
+          <Harmony>
+            <name>III6-i64</name>
+            </Harmony>
+          <location>
+            <fractions>1/2</fractions>
+            </location>
+          <Harmony>
+            <name>VI</name>
+            </Harmony>
           </voice>
         <voice>
           <Chord>
@@ -225,6 +270,9 @@
             <offset x="0" y="2"/>
             <durationType>half</durationType>
             </Rest>
+          <Harmony>
+            <name>iv</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -242,6 +290,9 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>iv6</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -269,6 +320,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>v</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -283,6 +337,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>III6</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -297,6 +354,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>III</name>
+            </Harmony>
           <Chord>
             <durationType>whole</durationType>
             <Note>
@@ -314,6 +374,12 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/2</fractions>
+            </location>
+          <Harmony>
+            <name>v</name>
+            </Harmony>
           </voice>
         <voice>
           <Chord>
@@ -327,6 +393,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>i6</name>
+            </Harmony>
           <Chord>
             <durationType>whole</durationType>
             <Note>
@@ -342,10 +411,28 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/2</fractions>
+            </location>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
+          <location>
+            <fractions>1/2</fractions>
+            </location>
+          <Harmony>
+            <name>iv</name>
+            </Harmony>
           <Rest>
             <offset x="0" y="2"/>
             <durationType>whole</durationType>
             </Rest>
+          <location>
+            <fractions>-1/2</fractions>
+            </location>
+          <Harmony>
+            <name>iv6</name>
+            </Harmony>
           </voice>
         <voice>
           <Chord>
@@ -359,10 +446,16 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
           <Rest>
             <offset x="0" y="2"/>
             <durationType>half</durationType>
             </Rest>
+          <Harmony>
+            <name>i6</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -370,6 +463,18 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <name>V6</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -404,6 +509,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>v</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -476,6 +584,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>iv6(2)</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -491,6 +602,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>iv6</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -512,6 +626,18 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <name>iv</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <Harmony>
+            <name>I6</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -519,6 +645,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>iv</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -549,6 +678,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>iio-VII6</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -573,6 +705,18 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/2</fractions>
+            </location>
+          <Harmony>
+            <name>VII</name>
+            </Harmony>
+          <location>
+            <fractions>1/2</fractions>
+            </location>
+          <Harmony>
+            <name>v</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -593,10 +737,16 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
           <Rest>
             <offset x="0" y="1"/>
             <durationType>half</durationType>
             </Rest>
+          <Harmony>
+            <name>i6</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -604,6 +754,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -632,6 +785,9 @@
       <Measure>
         <vspacerDown>8.00461</vspacerDown>
         <voice>
+          <Harmony>
+            <name>VII6</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -654,6 +810,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>VII</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -661,6 +820,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>v</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -681,10 +843,25 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>VI-iv6</name>
+            </Harmony>
           <Rest>
             <offset x="0" y="2"/>
             <durationType>whole</durationType>
             </Rest>
+          <location>
+            <fractions>-1/2</fractions>
+            </location>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
+          <location>
+            <fractions>1/2</fractions>
+            </location>
+          <Harmony>
+            <name>VI6</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -695,6 +872,9 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>iv64</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -722,6 +902,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>III</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -750,6 +933,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>VII</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -764,6 +950,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>v6</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -794,6 +983,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>V(4)/v</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -809,6 +1001,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V/v</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -870,6 +1065,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>v(6)}{</name>
+            </Harmony>
           <Chord>
             <durationType>breve</durationType>
             <Note>
@@ -877,6 +1075,24 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-5/4</fractions>
+            </location>
+          <Harmony>
+            <name>v</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <Harmony>
+            <name>III</name>
+            </Harmony>
+          <location>
+            <fractions>1/2</fractions>
+            </location>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
           </voice>
         <voice>
           <Chord>
@@ -892,11 +1108,32 @@
         <stretch>0.9</stretch>
         <vspacerDown>10.0065</vspacerDown>
         <voice>
+          <Harmony>
+            <name>ii</name>
+            </Harmony>
           <Rest>
             <offset x="0" y="2"/>
             <durationType>measure</durationType>
             <duration>8/4</duration>
             </Rest>
+          <location>
+            <fractions>-3/2</fractions>
+            </location>
+          <Harmony>
+            <name>VII</name>
+            </Harmony>
+          <location>
+            <fractions>1/2</fractions>
+            </location>
+          <Harmony>
+            <name>VII6</name>
+            </Harmony>
+          <location>
+            <fractions>1/2</fractions>
+            </location>
+          <Harmony>
+            <name>IV</name>
+            </Harmony>
           </voice>
         <voice>
           <Chord>
@@ -911,10 +1148,16 @@
       <Measure>
         <stretch>0.9</stretch>
         <voice>
+          <Harmony>
+            <name>V2</name>
+            </Harmony>
           <Rest>
             <offset x="0" y="2"/>
             <durationType>half</durationType>
             </Rest>
+          <Harmony>
+            <name>i6</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -922,6 +1165,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>v(64)</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -929,6 +1175,9 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>v</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -1008,6 +1257,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -1067,6 +1319,9 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 80</text>
             </Tempo>
+          <Harmony>
+            <name>III</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -1080,6 +1335,9 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 75</text>
             </Tempo>
+          <Harmony>
+            <name>i6</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -1087,6 +1345,12 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
           </voice>
         <voice>
           <Chord>
@@ -1123,6 +1387,9 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 70</text>
             </Tempo>
+          <Harmony>
+            <name>V6</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -1136,6 +1403,9 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 60</text>
             </Tempo>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -1153,6 +1423,9 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 50</text>
             </Tempo>
+          <Harmony>
+            <name>V(64)</name>
+            </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
@@ -1176,6 +1449,9 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 40</text>
             </Tempo>
+          <Harmony>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -1227,6 +1503,9 @@
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
+          <Harmony>
+            <name>I}</name>
+            </Harmony>
           <Chord>
             <durationType>breve</durationType>
             <Note>

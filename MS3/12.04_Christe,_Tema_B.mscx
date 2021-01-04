@@ -3,7 +3,6 @@
   <programVersion>3.5.2</programVersion>
   <programRevision>465e7b6</programRevision>
   <Score>
-    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -447,7 +446,7 @@
             </Chord>
           <Harmony>
             <name>vii%43/V/III</name>
-            <offset x="0" y="-5.10371"/>
+            <offset x="-0.461546" y="-2.79598"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>

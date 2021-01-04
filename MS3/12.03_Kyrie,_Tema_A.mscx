@@ -3,7 +3,6 @@
   <programVersion>3.5.2</programVersion>
   <programRevision>465e7b6</programRevision>
   <Score>
-    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -886,7 +885,7 @@
             </Chord>
           <Harmony>
             <name>V(64)/iv</name>
-            <offset x="0" y="-5.15836"/>
+            <offset x="-0.396231" y="-2.38474"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -947,13 +946,7 @@
             <name>V/iv</name>
             </Harmony>
           <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <name>V7/iv</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>1/2</fractions>
             </location>
           <Harmony>
             <name>iv</name>
@@ -1338,12 +1331,12 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 50</text>
             </Tempo>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Harmony>
             <name>I}</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>breve</durationType>
             <Note>
