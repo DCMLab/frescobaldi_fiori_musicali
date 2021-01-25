@@ -236,16 +236,10 @@
             <duration>8/4</duration>
             </Rest>
           <location>
-            <fractions>-3/2</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
-            <name>i6</name>
-            </Harmony>
-          <location>
-            <fractions>1/2</fractions>
-            </location>
-          <Harmony>
-            <name>III6-i64</name>
+            <name>III6</name>
             </Harmony>
           <location>
             <fractions>1/2</fractions>
@@ -626,17 +620,8 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
           <Harmony>
-            <name>iv</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <name>I6</name>
+            <name>V6/iv</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1345,12 +1330,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <name>i</name>
-            </Harmony>
           </voice>
         <voice>
           <Chord>
@@ -1500,12 +1479,12 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 50</text>
             </Tempo>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Harmony>
             <name>I}</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>breve</durationType>
             <Note>

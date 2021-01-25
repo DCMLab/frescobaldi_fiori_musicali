@@ -195,7 +195,7 @@
             <text><sym>metNoteHalfUp</sym> = 90</text>
             </Tempo>
           <Harmony>
-            <name>.d.V{</name>
+            <name>.d.V{-v{</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -492,7 +492,7 @@
             </location>
           <Harmony>
             <name>viio6/III</name>
-            <offset x="-0.107383" y="-5.07719"/>
+            <offset x="-0.107383" y="-2.37719"/>
             </Harmony>
           </voice>
         <voice>
@@ -572,13 +572,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-1/2</fractions>
-            </location>
-          <Harmony>
-            <name>i6</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>-1/4</fractions>
             </location>
           <Harmony>
             <name>V</name>
@@ -862,15 +856,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <name>iio6/v</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
           <Harmony>
             <name>v</name>
             </Harmony>

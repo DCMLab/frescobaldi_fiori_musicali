@@ -217,9 +217,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>iv</name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -1130,9 +1127,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -1149,9 +1143,6 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 40</text>
             </Tempo>
-          <Harmony>
-            <name>iv64</name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -1201,12 +1192,12 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 50</text>
             </Tempo>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Harmony>
             <name>I}</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>breve</durationType>
             <Note>

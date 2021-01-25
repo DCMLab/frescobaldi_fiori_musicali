@@ -646,7 +646,7 @@
         <vspacerDown>9.86346</vspacerDown>
         <voice>
           <Harmony>
-            <name>v(b64)/V</name>
+            <name>v(64)/v</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -656,7 +656,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>v/V</name>
+            <name>v/v</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -669,13 +669,13 @@
             <fractions>-1/4</fractions>
             </location>
           <Harmony>
-            <name>v(b13)/V</name>
+            <name>v(b13)/v</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Harmony>
-            <name>v(b64)/V</name>
+            <name>v(64)/v</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -685,7 +685,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V/V</name>
+            <name>V/v</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -810,15 +810,7 @@
             <name>V(4)/V</name>
             </Harmony>
           <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <name>V64(4)/V</name>
-            <minDistance>-0.2</minDistance>
-            <offset x="0" y="-2.47491"/>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>1/2</fractions>
             </location>
           <Harmony>
             <name>V/V</name>
@@ -980,7 +972,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V64</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1134,7 +1126,7 @@
         <vspacerDown>9.00553</vspacerDown>
         <voice>
           <Harmony>
-            <name>V/iv</name>
+            <name>V/IV</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1143,15 +1135,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-3/8</fractions>
-            </location>
-          <Harmony>
-            <name>V7/iv</name>
-            </Harmony>
-          <location>
-            <fractions>3/8</fractions>
-            </location>
           <Harmony>
             <name>iv64</name>
             </Harmony>

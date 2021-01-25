@@ -195,7 +195,7 @@
             <text>Kyrie, Tema A</text>
             </StaffText>
           <Harmony>
-            <name>.d.V{</name>
+            <name>.d.V{-v{</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -217,14 +217,14 @@
             <fractions>1/2</fractions>
             </location>
           <Harmony>
-            <name>i6-III</name>
+            <name>III</name>
             </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Harmony>
-            <name>iio(2)-V6(4)/III</name>
+            <name>V6(4)/III</name>
             </Harmony>
           <Rest>
             <offset x="0" y="1"/>
@@ -235,7 +235,7 @@
             <fractions>-3/2</fractions>
             </location>
           <Harmony>
-            <name>iio-V6/III</name>
+            <name>V6/III</name>
             </Harmony>
           <location>
             <fractions>1/2</fractions>
@@ -287,13 +287,7 @@
             <name>#viio6/v</name>
             </Harmony>
           <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <name>V64/v</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>1/2</fractions>
             </location>
           <Harmony>
             <name>v(6)</name>
@@ -402,7 +396,7 @@
             <fractions>1/2</fractions>
             </location>
           <Harmony>
-            <name>III-i6</name>
+            <name>VI/v}{</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -517,7 +511,7 @@
         <vspacerDown>8.43358</vspacerDown>
         <voice>
           <Harmony>
-            <name>v</name>
+            <name>v}</name>
             </Harmony>
           <Chord>
             <durationType>breve</durationType>
@@ -530,7 +524,7 @@
             <fractions>-3/2</fractions>
             </location>
           <Harmony>
-            <name>i6</name>
+            <name>i6{</name>
             </Harmony>
           <location>
             <fractions>1/2</fractions>
@@ -721,7 +715,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>v</name>
+            <name>v}{</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -772,7 +766,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>III</name>
+            <name>VI/v}{</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -949,7 +943,7 @@
             <fractions>1/2</fractions>
             </location>
           <Harmony>
-            <name>iv</name>
+            <name>iv}{</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -1011,7 +1005,7 @@
         <stretch>0.9</stretch>
         <voice>
           <Harmony>
-            <name>iv6-VI</name>
+            <name>VI</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1020,9 +1014,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>VI</name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>

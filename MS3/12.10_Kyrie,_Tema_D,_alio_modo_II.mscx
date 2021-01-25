@@ -444,7 +444,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>v6</name>
+            <name>vi6/VII</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -920,7 +920,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>III</name>
+            <name>VI/v}{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1588,12 +1588,12 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 50</text>
             </Tempo>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Harmony>
             <name>I(4)}</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>breve</durationType>
             <Note>
