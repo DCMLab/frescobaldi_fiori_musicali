@@ -338,7 +338,7 @@
             <text><sym>metNoteHalfUp</sym> = 90</text>
             </Tempo>
           <Harmony>
-            <name>i{</name>
+            <name>.d.i{</name>
             </Harmony>
           <Rest>
             <offset x="0" y="1"/>
@@ -552,7 +552,7 @@
             <fractions>1/4</fractions>
             </location>
           <Harmony>
-            <name>VII(4)</name>
+            <name>V(4)/III</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -575,7 +575,7 @@
             <fractions>-3/4</fractions>
             </location>
           <Harmony>
-            <name>VII</name>
+            <name>V/III</name>
             </Harmony>
           </voice>
         <voice>
@@ -1617,9 +1617,6 @@
           <location>
             <fractions>1/4</fractions>
             </location>
-          <Harmony>
-            <name>iio6</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -1627,9 +1624,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>iv</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -1791,7 +1785,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>IIIM65</name>
+            <name>IVM65/VII</name>
             </Harmony>
           <Rest>
             <offset x="0" y="1"/>
@@ -1807,7 +1801,7 @@
             <fractions>1/2</fractions>
             </location>
           <Harmony>
-            <name>VII</name>
+            <name>VII}{</name>
             </Harmony>
           <Rest>
             <offset x="0" y="1"/>
@@ -1999,13 +1993,7 @@
             <text><sym>metNoteHalfUp</sym> = 80</text>
             </Tempo>
           <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <name>i</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>1/2</fractions>
             </location>
           <Tempo>
             <tempo>2.5</tempo>

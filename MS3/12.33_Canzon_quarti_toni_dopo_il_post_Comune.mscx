@@ -327,9 +327,6 @@
         </VBox>
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
@@ -2072,7 +2069,7 @@
             <text><sym>metNoteHalfUp</sym> = 100</text>
             </Tempo>
           <Harmony>
-            <name>i{-iv6{</name>
+            <name>i{</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -2202,7 +2199,7 @@
             <fractions>1/2</fractions>
             </location>
           <Harmony>
-            <name>vii6</name>
+            <name>iv6/iv</name>
             </Harmony>
           </voice>
         <voice>
@@ -6024,9 +6021,6 @@
     <Staff id="2">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
@@ -9649,9 +9643,6 @@
     <Staff id="3">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
@@ -14254,9 +14245,6 @@
     <Staff id="4">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>

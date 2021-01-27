@@ -342,7 +342,7 @@
             <text>Christe, Tema F 1</text>
             </StaffText>
           <Harmony>
-            <name>i{</name>
+            <name>.d.i{</name>
             </Harmony>
           <Rest>
             <offset x="0" y="2"/>
@@ -987,21 +987,12 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>ii(4)</name>
+            <name>#viio6-ii</name>
             </Harmony>
           <Rest>
             <offset x="0" y="1"/>
             <durationType>whole</durationType>
             </Rest>
-          <location>
-            <fractions>-3/4</fractions>
-            </location>
-          <Harmony>
-            <name>ii</name>
-            </Harmony>
-          <location>
-            <fractions>3/4</fractions>
-            </location>
           <Harmony>
             <name>i(4)</name>
             </Harmony>
@@ -1302,7 +1293,7 @@
             <text><sym>metNoteHalfUp</sym> = 60</text>
             </Tempo>
           <Harmony>
-            <name>iv64</name>
+            <name>i(64)</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>

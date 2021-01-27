@@ -342,7 +342,7 @@
             <text>Recercar cromaticho post il Credo</text>
             </StaffText>
           <Harmony>
-            <name>v{</name>
+            <name>.d.v{</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -1099,7 +1099,7 @@
             <fractions>-1/2</fractions>
             </location>
           <Harmony>
-            <name>#vi6</name>
+            <name>ii6/v</name>
             </Harmony>
           </voice>
         <voice>
@@ -1396,7 +1396,7 @@
         <vspacerDown>9.4345</vspacerDown>
         <voice>
           <Harmony>
-            <name>ii%65-ii65</name>
+            <name>ii%65</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -1819,7 +1819,7 @@
             <fractions>-1/2</fractions>
             </location>
           <Harmony>
-            <name>#vio6</name>
+            <name>#vio6-#vi6</name>
             </Harmony>
           </voice>
         <voice>
@@ -2198,7 +2198,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>#vio6</name>
+            <name>viio6/VII</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -2208,13 +2208,13 @@
             <fractions>-3/2</fractions>
             </location>
           <Harmony>
-            <name>VII6-ii</name>
+            <name>VII6</name>
             </Harmony>
           <location>
             <fractions>1/2</fractions>
             </location>
           <Harmony>
-            <name>i6-III</name>
+            <name>i6</name>
             </Harmony>
           <location>
             <fractions>1/2</fractions>
@@ -2310,7 +2310,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>IV64</name>
+            <name>IV</name>
             </Harmony>
           <Rest>
             <durationType>half</durationType>
@@ -2326,7 +2326,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>I6(4)</name>
+            <name>V6(4)/iv</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -2336,7 +2336,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>I6</name>
+            <name>V6/iv</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -2723,7 +2723,7 @@
             <fractions>1/2</fractions>
             </location>
           <Harmony>
-            <name>VII</name>
+            <name>VII}{</name>
             </Harmony>
           <location>
             <fractions>1/2</fractions>
@@ -4656,16 +4656,10 @@
             <fractions>-1/1</fractions>
             </location>
           <Harmony>
-            <name>IV6(2)</name>
+            <name>#viio6(2)/v</name>
             </Harmony>
           <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <name>IV6</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>1/2</fractions>
             </location>
           <Harmony>
             <name>#viio6/v</name>
@@ -4810,7 +4804,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>v6-VII</name>
+            <name>v6</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -5060,7 +5054,7 @@
             <fractions>-3/2</fractions>
             </location>
           <Harmony>
-            <name>III6</name>
+            <name>IV6/VII</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -5084,7 +5078,7 @@
             <fractions>1/4</fractions>
             </location>
           <Harmony>
-            <name>v</name>
+            <name>vi/VII</name>
             </Harmony>
           </voice>
         <voice>
@@ -5175,7 +5169,7 @@
             <fractions>1/2</fractions>
             </location>
           <Harmony>
-            <name>v</name>
+            <name>vi/VII}{</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -5445,9 +5439,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>#vi</name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>

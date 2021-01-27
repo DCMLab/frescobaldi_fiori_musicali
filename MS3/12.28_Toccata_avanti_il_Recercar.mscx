@@ -449,13 +449,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-7/8</fractions>
-            </location>
-          <Harmony>
-            <name>#vi%65</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>-3/4</fractions>
             </location>
           <Harmony>
             <name>v6</name>
@@ -464,7 +458,7 @@
             <fractions>1/8</fractions>
             </location>
           <Harmony>
-            <name>I</name>
+            <name>#viio6/iv</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -741,18 +735,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <name>#viio64/iv</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <name>V7/III</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -763,9 +745,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>IVM7/III</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -850,7 +829,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>IV64</name>
+            <name>V(64)/IV</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -863,7 +842,7 @@
             <fractions>-1/4</fractions>
             </location>
           <Harmony>
-            <name>iv64</name>
+            <name>i(64)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -1447,13 +1426,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-5/8</fractions>
-            </location>
-          <Harmony>
-            <name>V65</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>-1/2</fractions>
             </location>
           <Harmony>
             <name>V6(#6)</name>

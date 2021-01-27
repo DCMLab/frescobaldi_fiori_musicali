@@ -342,7 +342,7 @@
             <text>Kyrie, Tema E 1</text>
             </StaffText>
           <Harmony>
-            <name>i{</name>
+            <name>.d.i{</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -415,12 +415,6 @@
             </location>
           <Harmony>
             <name>i</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <name>v6</name>
             </Harmony>
           </voice>
         <voice>
@@ -497,19 +491,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-3/4</fractions>
-            </location>
-          <Harmony>
-            <name>III</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <name>III6</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>-1/2</fractions>
             </location>
           <Harmony>
             <name>v</name>
@@ -648,7 +630,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>III6</name>
+            <name>v(6)</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -806,12 +788,6 @@
           <Harmony>
             <name>VII6</name>
             </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <name>VII</name>
-            </Harmony>
           </voice>
         <voice>
           <Chord>
@@ -948,14 +924,11 @@
             <fractions>-1/4</fractions>
             </location>
           <Harmony>
-            <name>VII6</name>
+            <name>ii</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
-          <Harmony>
-            <name>ii</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1400,15 +1373,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <name>V7/v</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
           <Tempo>
             <tempo>2.5</tempo>
             <followText>1</followText>
@@ -1416,7 +1380,7 @@
             <text><sym>metNoteHalfUp</sym> = 75</text>
             </Tempo>
           <Harmony>
-            <name>III</name>
+            <name>VI/v</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>

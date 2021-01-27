@@ -731,7 +731,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>iv64</name>
+            <name>VI6</name>
             </Harmony>
           <Rest>
             <offset x="0" y="1"/>
@@ -951,17 +951,8 @@
             <offset x="0" y="1"/>
             <durationType>half</durationType>
             </Rest>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
           <Harmony>
-            <name>IV6(2)</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <name>iv6(2)</name>
+            <name>iv6</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -970,12 +961,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <name>iv6</name>
-            </Harmony>
           </voice>
         <voice>
           <Chord>
@@ -1244,9 +1229,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>III6(+6)</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -1435,7 +1417,7 @@
             <text><sym>metNoteHalfUp</sym> = 85</text>
             </Tempo>
           <Harmony>
-            <name>IV64(2)</name>
+            <name>IV</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1444,15 +1426,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <name>IV</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
           <Tempo>
             <tempo>2.66667</tempo>
             <followText>1</followText>

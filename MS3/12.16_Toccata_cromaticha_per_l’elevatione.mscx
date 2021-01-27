@@ -2597,7 +2597,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V2/VII</name>
+            <name>V2/V/III</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -2620,7 +2620,7 @@
             <fractions>-1/2</fractions>
             </location>
           <Harmony>
-            <name>VII6</name>
+            <name>V6/III</name>
             </Harmony>
           </voice>
         <voice>
@@ -3986,7 +3986,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>i(64)</name>
+            <name>iv64</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
