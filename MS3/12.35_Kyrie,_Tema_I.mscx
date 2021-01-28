@@ -577,18 +577,6 @@
             <durationType>measure</durationType>
             <duration>4/2</duration>
             </Rest>
-          <location>
-            <fractions>-1/1</fractions>
-            </location>
-          <Harmony>
-            <name>i6</name>
-            </Harmony>
-          <location>
-            <fractions>1/2</fractions>
-            </location>
-          <Harmony>
-            <name>i</name>
-            </Harmony>
           </voice>
         <voice>
           <Chord>
@@ -912,7 +900,7 @@
             <fractions>1/2</fractions>
             </location>
           <Harmony>
-            <name>v</name>
+            <name>vi/VII}{</name>
             </Harmony>
           <Rest>
             <durationType>half</durationType>

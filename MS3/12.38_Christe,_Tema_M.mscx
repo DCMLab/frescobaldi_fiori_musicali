@@ -828,7 +828,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>VI</name>
+            <name>VI}{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1473,6 +1473,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>VIM7</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>

@@ -382,9 +382,6 @@
         </VBox>
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>2</sigD>
@@ -625,9 +622,6 @@
     <Staff id="2">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>2</sigD>
@@ -637,7 +631,7 @@
             <text>Toccata per l'Elevatione</text>
             </StaffText>
           <Harmony>
-            <name>.ephryg.I{</name>
+            <name>.ephryg.V/iv{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -738,7 +732,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>II</name>
+            <name>VI/iv</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -748,7 +742,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>VII6</name>
+            <name>V6/III</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -1212,7 +1206,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>vii6-II</name>
+            <name>vii6</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -3046,9 +3040,6 @@
     <Staff id="3">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>2</sigD>
@@ -4264,9 +4255,6 @@
     <Staff id="4">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>2</sigD>
@@ -6308,9 +6296,6 @@
     <Staff id="5">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>2</sigD>

@@ -582,25 +582,10 @@
             <durationType>measure</durationType>
             <duration>8/4</duration>
             </Rest>
-          <location>
-            <fractions>-1/1</fractions>
-            </location>
-          <Harmony>
-            <name>i6-III</name>
-            </Harmony>
-          <location>
-            <fractions>1/2</fractions>
-            </location>
-          <Harmony>
-            <name>ii6-IV</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <name>v</name>
-            </Harmony>
           <Rest>
             <offset x="0" y="1"/>
             <durationType>measure</durationType>
@@ -622,7 +607,7 @@
             <fractions>1/2</fractions>
             </location>
           <Harmony>
-            <name>VII-v6</name>
+            <name>VII</name>
             </Harmony>
           </voice>
         <voice>
@@ -655,7 +640,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>VI-iv6</name>
+            <name>VI</name>
             </Harmony>
           <Rest>
             <offset x="0" y="1"/>
@@ -917,7 +902,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>III</name>
+            <name>VI/v}{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>

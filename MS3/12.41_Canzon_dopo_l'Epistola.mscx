@@ -1530,7 +1530,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>III</name>
+            <name>VI/v}{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1728,7 +1728,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>i6</name>
+            <name>iv6/v</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -1742,7 +1742,7 @@
             <fractions>-1/8</fractions>
             </location>
           <Harmony>
-            <name>i</name>
+            <name>iv/v</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -1873,7 +1873,7 @@
             <fractions>-1/2</fractions>
             </location>
           <Harmony>
-            <name>III6</name>
+            <name>VI6/v</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -1957,7 +1957,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>I6</name>
+            <name>V6/iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2145,7 +2145,7 @@
             <fractions>1/16</fractions>
             </location>
           <Harmony>
-            <name>III</name>
+            <name>VI/v</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2214,7 +2214,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>IV</name>
+            <name>VII/v</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2945,7 +2945,7 @@
         <vspacerDown>7.08948</vspacerDown>
         <voice>
           <Harmony>
-            <name>III</name>
+            <name>VI/v</name>
             </Harmony>
           <Rest>
             <offset x="0" y="1"/>
@@ -3395,7 +3395,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Harmony>
-            <name>V{</name>
+            <name>v{-V{</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -4265,7 +4265,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>III</name>
+            <name>VI/v</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>

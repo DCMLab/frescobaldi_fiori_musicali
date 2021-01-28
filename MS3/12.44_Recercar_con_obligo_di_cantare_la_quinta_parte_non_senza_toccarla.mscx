@@ -382,9 +382,6 @@
         </VBox>
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>2</sigN>
             <sigD>1</sigD>
@@ -1453,9 +1450,6 @@
     <Staff id="2">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>2</sigN>
             <sigD>1</sigD>
@@ -2625,7 +2619,7 @@
             <fractions>-1/2</fractions>
             </location>
           <Harmony>
-            <name>v</name>
+            <name>vi/VII</name>
             </Harmony>
           </voice>
         <voice>
@@ -3345,7 +3339,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>v</name>
+            <name>vi/VII</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -3976,7 +3970,7 @@
             <durationType>half</durationType>
             </Rest>
           <Harmony>
-            <name>v</name>
+            <name>vi/VII</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -5427,7 +5421,7 @@
             <durationType>half</durationType>
             </Rest>
           <Harmony>
-            <name>I6</name>
+            <name>V6/iv</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -5783,9 +5777,6 @@
     <Staff id="3">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>2</sigN>
             <sigD>1</sigD>
@@ -9127,9 +9118,6 @@
     <Staff id="4">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>2</sigN>
             <sigD>1</sigD>
@@ -12561,9 +12549,6 @@
     <Staff id="5">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>2</sigN>
             <sigD>1</sigD>
