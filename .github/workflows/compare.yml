@@ -56,14 +56,10 @@ jobs:
         working-directory: ./main
         run: |
           ms3 compare -f ${HOME}/files_modified.json
-      - name: Commit comparison files
+      - name: Push comparison files
         working-directory: ./main
         continue-on-error: true
         run: |
           git add -A
           git commit -m "Added comparison files for review"
-      - name: Push files
-        working-directory: ./main
-        continue-on-error: true
-        run: |
           git push
