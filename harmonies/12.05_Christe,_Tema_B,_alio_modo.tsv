@@ -1,0 +1,48 @@
+mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	alt_label	globalkey	localkey	pedal	chord	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note
+1	1	0	0	8/4	1	1	.d.i{		d	i		i	i						{	m	1	1	0, -3, 1		0	0
+1	1	3/4	3/4	8/4	1	1	i6		d	i		i6	i		6					m	1	1	-3, 1, 0		0	-3
+1	1	1	1	8/4	1	1	v		d	i		v	v							m	1	1	1, -2, 2		1	1
+1	1	3/2	3/2	8/4	1	1	ii	VII6	d	i		ii	ii							m	1	1	2, -1, 3		2	2
+2	2	0	0	8/4	1	1	III6		d	i		III6	III		6					M	1	1	1, -2, -3		-3	1
+2	2	1/4	1/4	8/4	1	1	III		d	i		III	III							M	1	1	-3, 1, -2		-3	-3
+2	2	1/2	1/2	8/4	1	1	v		d	i		v	v							m	1	1	1, -2, 2		1	1
+2	2	3/4	3/4	8/4	1	1	v6		d	i		v6	v		6					m	1	1	-2, 2, 1		1	-2
+2	2	1	1	8/4	1	1	VI(2)		d	i		VI(2)	VI			2				M	1	1	-2, 0, -3		-4	-2
+2	2	5/4	5/4	8/4	1	1	VI		d	i		VI	VI							M	1	1	-4, 0, -3		-4	-4
+2	2	3/2	3/2	8/4	1	1	v(b2)		d	i		v(b2)	v			b2				m	1	1	-11, -2, 2		1	-11
+2	2	7/4	7/4	8/4	1	1	v		d	i		v	v							m	1	1	1, -2, 2		1	1
+3	3	0	0	8/4	1	1	iv		d	i		iv	iv							m	1	1	-1, -4, 0		-1	-1
+3	3	1/4	1/4	8/4	1	1	iv6		d	i		iv6	iv		6					m	1	1	-4, 0, -1		-1	-4
+3	3	1/2	1/2	8/4	1	1	i		d	i		i	i							m	1	1	0, -3, 1		0	0
+3	3	3/4	3/4	8/4	1	1	i6		d	i		i6	i		6					m	1	1	-3, 1, 0		0	-3
+3	3	1	1	8/4	1	1	#viio6(2)		d	i		#viio6(2)	#vii	o	6	2				o	1	1	2, -1, 0		5	2
+3	3	5/4	5/4	8/4	1	1	#viio6		d	i		#viio6	#vii	o	6					o	1	1	2, -1, 5		5	2
+3	3	3/2	3/2	8/4	1	1	i}		d	i		i	i						}	m	1	1	0, -3, 1		0	0
+3	3	7/4	7/4	8/4	1	1	{		d	i									{		1	1				
+4	4	0	0	4/4	1	1	v64		d	i		v64	v		64					m	1	1	2, 1, -2		1	2
+4	4	1/4	1/4	4/4	1	1	#viio6		d	i		#viio6	#vii	o	6					o	1	1	2, -1, 5		5	2
+4	4	1/2	1/2	4/4	1	1	i(4)		d	i		i(4)	i			4				m	1	1	0, -1, 1		0	0
+4	4	3/4	3/4	4/4	1	1	i		d	i		i	i							m	1	1	0, -3, 1		0	0
+5	5	0	0	4/4	1	1	VII(4)		d	i		VII(4)	VII			4				M	1	1	-2, -3, -1		-2	-2
+5	5	1/4	1/4	4/4	1	1	VII		d	i		VII	VII							M	1	1	-2, 2, -1		-2	-2
+5	5	1/2	1/2	4/4	1	1	I(9)		d	i		I(9)	I			9				M	1	1	0, 4, 1	2	0	0
+5	5	3/4	3/4	4/4	1	1	I		d	i		I	I							M	1	1	0, 4, 1		0	0
+6	6	0	0	8/4	1	1	#viio6(2)		d	i		#viio6(2)	#vii	o	6	2				o	1	1	2, -1, 0		5	2
+6	6	1/4	1/4	8/4	1	1	#viio6		d	i		#viio6	#vii	o	6					o	1	1	2, -1, 5		5	2
+6	6	1/2	1/2	8/4	1	1	i}{		d	i		i	i						}{	m	1	1	0, -3, 1		0	0
+6	6	1	1	8/4	1	1	v6		d	i		v6	v		6					m	1	1	-2, 2, 1		1	-2
+6	6	3/2	3/2	8/4	1	1	#viio6(2)/v		d	i		#viio6(2)/v	#vii	o	6	2	v			o	1	1	3, 0, 1		6	3
+6	6	7/4	7/4	8/4	1	1	#viio6/v		d	i		#viio6/v	#vii	o	6		v			o	1	1	3, 0, 6		6	3
+7	7	0	0	8/4	1	1	v		d	i		v	v							m	1	1	1, -2, 2		1	1
+7	7	1/2	1/2	8/4	1	1	ii6		d	i		ii6	ii		6					m	1	1	-1, 3, 2		2	-1
+7	7	3/4	3/4	8/4	1	1	IV		d	i		IV	IV							M	1	1	-1, 3, 0		-1	-1
+7	7	1	1	8/4	1	1	V[v(64)		d	i	V	v(64)	v			64				m	1	1	1, 0, -3		1	1
+7	7	5/4	5/4	8/4	1	1	v		d	i	V	v	v							m	1	1	1, -2, 2		1	1
+7	7	3/2	3/2	8/4	1	1	III6		d	i	V	III6	III		6					M	1	1	1, -2, -3		-3	1
+7	7	7/4	7/4	8/4	1	1	ii6		d	i	V	ii6	ii		6					m	1	1	-1, 3, 2		2	-1
+8	8	0	0	8/4	1	1	V(13)		d	i	V	V(13)	V			13				M	1	1	1, 5, 2	-3	1	1
+8	8	1/4	1/4	8/4	1	1	V(64)		d	i	V	V(64)	V			64				M	1	1	1, 0, -3		1	1
+8	8	3/8	3/8	8/4	1	1	viio64/V		d	i	V	viio64/V	vii	o	64		V			o	1	1	0, 6, 3		6	0
+8	8	1/2	1/2	8/4	1	1	V(4)		d	i	V	V(4)	V			4				M	1	1	1, 0, 2		1	1
+8	8	3/4	3/4	8/4	1	1	V]		d	i	V	V	V							M	1	1	1, 5, 2		1	1
+8	8	1	1	8/4	1	1	I}		d	i		I	I						}	M	1	1	0, 4, 1		0	0
