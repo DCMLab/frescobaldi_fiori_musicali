@@ -75,3 +75,55 @@ Source files as of 2020-12-21:
 | https://musescore.com/user/11977961/scores/5563581 | 12.34-47_Messa_della_Madonna.mscx  | None    |
 | https://musescore.com/user/11977961/scores/5552416 | 12.18-33_Messa_delli_Apostoli.mscx | CC0     |
 | https://musescore.com/user/11977961/scores/5317011 | 12.01-17_Messa_della_Domenica.mscx | CC0     |
+
+# Overview
+|                               file_name                               |measures|labels|standard|annotators|reviewers|
+|-----------------------------------------------------------------------|-------:|-----:|--------|----------|---------|
+|12.01_Toccata_avanti_la_Messa_della_Domenica                           |       8|    57|        |          |         |
+|12.02_Kyrie_della_domenica                                             |      13|    60|        |          |         |
+|12.03_Kyrie,_Tema_A                                                    |      17|    66|        |          |         |
+|12.04_Christe,_Tema_B                                                  |      15|    47|        |          |         |
+|12.05_Christe,_Tema_B,_alio_modo                                       |       8|    47|        |          |         |
+|12.06_Christe,_Tema_B,_alio_modo_II                                    |      21|    46|        |          |         |
+|12.07_Christe,_Tema_B,_alio_modo_III                                   |      14|    35|        |          |         |
+|12.08_Kyrie,_Tema_C                                                    |      13|    54|        |          |         |
+|12.09_Kyrie,_Tema_D,_alio_modo_I                                       |      21|    63|        |          |         |
+|12.10_Kyrie,_Tema_D,_alio_modo_II                                      |      18|    52|        |          |         |
+|12.11_Kyrie_ultimo                                                     |      19|    65|        |          |         |
+|12.12_Kyrie,_Tema_D,_alio_modo_III                                     |      12|    84|        |          |         |
+|12.13_Kyrie,_Tema_D,_alio_modo_IV                                      |      21|    48|        |          |         |
+|12.14_Canzon_dopo_l’Epistola                                           |      59|   211|        |          |         |
+|12.15_Recercar_dopo_il_Credo                                           |      47|   162|        |          |         |
+|12.16_Toccata_cromaticha_per_l’elevatione                              |      53|   199|        |          |         |
+|12.16_Toccata_cromaticha_per_l’elevatione_phrygian                     |      53|   199|        |          |         |
+|12.17_Canzon_post_il_Comune                                            |      80|   213|        |          |         |
+|12.18_Toccata_avanti_la_Messa_delli_Apostoli                           |      21|    74|        |          |         |
+|12.19_Kyrie,_Tema_E_1                                                  |      16|    46|        |          |         |
+|12.20_Kyrie,_Tema_E_2                                                  |      17|    64|        |          |         |
+|12.21_Kyrie,_Tema_E_3                                                  |      10|    45|        |          |         |
+|12.22_Christe,_Tema_F_1                                                |      13|    43|        |          |         |
+|12.23_Christe,_Tema_F_2                                                |      14|    52|        |          |         |
+|12.24_Kyrie,_Tema_G_1                                                  |      27|    51|        |          |         |
+|12.25_Kyrie,_Tema_G_2                                                  |      20|    65|        |          |         |
+|12.26_Kyrie,_Tema_H                                                    |      20|    63|        |          |         |
+|12.27_Canzon_dopo_l'Epistola                                           |      68|   210|        |          |         |
+|12.28_Toccata_avanti_il_Recercar                                       |      13|    60|        |          |         |
+|12.29_Recercar_cromaticho_post_il_Credo                                |      70|   248|        |          |         |
+|12.30_Alto_recercar                                                    |      81|   319|        |          |         |
+|12.31_Toccata_per_l'Elevatione                                         |      33|   131|        |          |         |
+|12.32_Recercar_con_obligo_del_Basso_come_appare                        |      64|   219|        |          |         |
+|12.33_Canzon_quarti_toni_dopo_il_post_Comune                           |      58|   209|        |          |         |
+|12.34_Toccata_avanti_la_Messa_della_Madonna                            |      12|    38|        |          |         |
+|12.35_Kyrie,_Tema_I                                                    |      12|    42|        |          |         |
+|12.36_Kyrie,_Tema_K                                                    |      13|    46|        |          |         |
+|12.37_Christe,_Tema_L                                                  |      14|    61|        |          |         |
+|12.38_Christe,_Tema_M                                                  |      12|    40|        |          |         |
+|12.39_Kyrie,_Tema_N                                                    |      12|    34|        |          |         |
+|12.40_Kyrie,_Tema_O                                                    |       9|    53|        |          |         |
+|12.41_Canzon_dopo_l'Epistola                                           |      49|   126|        |          |         |
+|12.42_Recercar_dopo_il_Credo                                           |      46|   156|        |          |         |
+|12.43_Toccata_avanti_il_Recercar                                       |      14|    38|        |          |         |
+|12.44_Recercar_con_obligo_di_cantare_la_quinta_parte_non_senza_toccarla|      59|   202|        |          |         |
+|12.45_Toccata_per_l'Elevatione                                         |      24|    86|        |          |         |
+|12.46_Bergamasca                                                       |     124|   415|        |          |         |
+|12.47_Capriccio_sopra_la_Girolmeta                                     |     102|   375|        |          |         |
