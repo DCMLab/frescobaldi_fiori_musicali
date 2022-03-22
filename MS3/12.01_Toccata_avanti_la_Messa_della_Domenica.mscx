@@ -162,6 +162,8 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="composed_end">1635</metaTag>
+    <metaTag name="composed_start">1635</metaTag>
     <metaTag name="composer">Girolamo Frescobaldi</metaTag>
     <metaTag name="copyright">1635</metaTag>
     <metaTag name="creationDate">2019-05-03</metaTag>
