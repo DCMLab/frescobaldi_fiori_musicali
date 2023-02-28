@@ -95,7 +95,7 @@ Source files as of 2020-12-21:
 |12.14_Canzon_dopo_l’Epistola                                           |      59|   211|
 |12.15_Recercar_dopo_il_Credo                                           |      47|   162|
 |12.16_Toccata_cromaticha_per_l’elevatione                              |      53|   199|
-|12.16_Toccata_cromaticha_per_l’elevatione_phrygian                     |      53|   199|
+|12.16_Toccata_cromaticha_per_l’elevatione_phrygian                     |      53|   198|
 |12.17_Canzon_post_il_Comune                                            |      80|   213|
 |12.18_Toccata_avanti_la_Messa_delli_Apostoli                           |      21|    74|
 |12.19_Kyrie,_Tema_E_1                                                  |      16|    46|
@@ -110,9 +110,9 @@ Source files as of 2020-12-21:
 |12.28_Toccata_avanti_il_Recercar                                       |      13|    60|
 |12.29_Recercar_cromaticho_post_il_Credo                                |      70|   248|
 |12.30_Alto_recercar                                                    |      81|   319|
-|12.31_Toccata_per_l'Elevatione                                         |      33|   131|
+|12.31_Toccata_per_l'Elevatione                                         |      33|   130|
 |12.32_Recercar_con_obligo_del_Basso_come_appare                        |      64|   219|
-|12.33_Canzon_quarti_toni_dopo_il_post_Comune                           |      58|   209|
+|12.33_Canzon_quarti_toni_dopo_il_post_Comune                           |      58|   208|
 |12.34_Toccata_avanti_la_Messa_della_Madonna                            |      12|    38|
 |12.35_Kyrie,_Tema_I                                                    |      12|    42|
 |12.36_Kyrie,_Tema_K                                                    |      13|    46|
@@ -124,9 +124,9 @@ Source files as of 2020-12-21:
 |12.42_Recercar_dopo_il_Credo                                           |      46|   156|
 |12.43_Toccata_avanti_il_Recercar                                       |      14|    38|
 |12.44_Recercar_con_obligo_di_cantare_la_quinta_parte_non_senza_toccarla|      59|   202|
-|12.45_Toccata_per_l'Elevatione                                         |      24|    86|
+|12.45_Toccata_per_l'Elevatione                                         |      24|    85|
 |12.46_Bergamasca                                                       |     124|   415|
 |12.47_Capriccio_sopra_la_Girolmeta                                     |     102|   375|
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.0.0beta.*
+*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.4.*

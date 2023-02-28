@@ -1,0 +1,313 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw#",
+    {
+      "@language": "en "
+    }
+  ],
+  "dc:title": "DCML harmony annotations for frescobaldi_fiori_musicali",
+  "dialect": {
+    "delimiter": "\t"
+  },
+  "dc:description": "One feature matrix per score, containing one line per label. The first columns (until 'label') are the same as in extracted 'labels' tables with the difference that only those harmony labels that match the DCML harmony annotation standard (dcmlab.github.io/standards) are included. Since these follow a specific syntax, they can be split into their components (features) and transformed into scale degrees. For more information, please refer to the docs at https://johentsch.github.io/ms3/columns",
+  "dc:created": "2023-02-28T15:52:27",
+  "dc:creator": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "SoftwareApplication",
+      "@id": "https://github.com/johentsch/ms3",
+      "name": "ms3",
+      "description": "A parser for MuseScore 3 files.",
+      "author": {
+        "name": "Johannes Hentschel",
+        "@id": "https://orcid.org/0000-0002-1986-9545"
+      },
+      "softwareVersion": "1.2.4"
+    }
+  ],
+  "tables": [
+    {
+      "url": "12.01_Toccata_avanti_la_Messa_della_Domenica.tsv"
+    },
+    {
+      "url": "12.02_Kyrie_della_domenica.tsv"
+    },
+    {
+      "url": "12.03_Kyrie,_Tema_A.tsv"
+    },
+    {
+      "url": "12.04_Christe,_Tema_B.tsv"
+    },
+    {
+      "url": "12.05_Christe,_Tema_B,_alio_modo.tsv"
+    },
+    {
+      "url": "12.06_Christe,_Tema_B,_alio_modo_II.tsv"
+    },
+    {
+      "url": "12.07_Christe,_Tema_B,_alio_modo_III.tsv"
+    },
+    {
+      "url": "12.08_Kyrie,_Tema_C.tsv"
+    },
+    {
+      "url": "12.09_Kyrie,_Tema_D,_alio_modo_I.tsv"
+    },
+    {
+      "url": "12.10_Kyrie,_Tema_D,_alio_modo_II.tsv"
+    },
+    {
+      "url": "12.11_Kyrie_ultimo.tsv"
+    },
+    {
+      "url": "12.12_Kyrie,_Tema_D,_alio_modo_III.tsv"
+    },
+    {
+      "url": "12.13_Kyrie,_Tema_D,_alio_modo_IV.tsv"
+    },
+    {
+      "url": "12.14_Canzon_dopo_l\u2019Epistola.tsv"
+    },
+    {
+      "url": "12.15_Recercar_dopo_il_Credo.tsv"
+    },
+    {
+      "url": "12.16_Toccata_cromaticha_per_l\u2019elevatione.tsv"
+    },
+    {
+      "url": "12.16_Toccata_cromaticha_per_l\u2019elevatione_phrygian.tsv"
+    },
+    {
+      "url": "12.17_Canzon_post_il_Comune.tsv"
+    },
+    {
+      "url": "12.18_Toccata_avanti_la_Messa_delli_Apostoli.tsv"
+    },
+    {
+      "url": "12.19_Kyrie,_Tema_E_1.tsv"
+    },
+    {
+      "url": "12.20_Kyrie,_Tema_E_2.tsv"
+    },
+    {
+      "url": "12.21_Kyrie,_Tema_E_3.tsv"
+    },
+    {
+      "url": "12.22_Christe,_Tema_F_1.tsv"
+    },
+    {
+      "url": "12.23_Christe,_Tema_F_2.tsv"
+    },
+    {
+      "url": "12.24_Kyrie,_Tema_G_1.tsv"
+    },
+    {
+      "url": "12.25_Kyrie,_Tema_G_2.tsv"
+    },
+    {
+      "url": "12.26_Kyrie,_Tema_H.tsv"
+    },
+    {
+      "url": "12.27_Canzon_dopo_l'Epistola.tsv"
+    },
+    {
+      "url": "12.28_Toccata_avanti_il_Recercar.tsv"
+    },
+    {
+      "url": "12.29_Recercar_cromaticho_post_il_Credo.tsv"
+    },
+    {
+      "url": "12.30_Alto_recercar.tsv"
+    },
+    {
+      "url": "12.31_Toccata_per_l'Elevatione.tsv"
+    },
+    {
+      "url": "12.32_Recercar_con_obligo_del_Basso_come_appare.tsv"
+    },
+    {
+      "url": "12.33_Canzon_quarti_toni_dopo_il_post_Comune.tsv"
+    },
+    {
+      "url": "12.34_Toccata_avanti_la_Messa_della_Madonna.tsv"
+    },
+    {
+      "url": "12.35_Kyrie,_Tema_I.tsv"
+    },
+    {
+      "url": "12.36_Kyrie,_Tema_K.tsv"
+    },
+    {
+      "url": "12.37_Christe,_Tema_L.tsv"
+    },
+    {
+      "url": "12.38_Christe,_Tema_M.tsv"
+    },
+    {
+      "url": "12.39_Kyrie,_Tema_N.tsv"
+    },
+    {
+      "url": "12.40_Kyrie,_Tema_O.tsv"
+    },
+    {
+      "url": "12.41_Canzon_dopo_l'Epistola.tsv"
+    },
+    {
+      "url": "12.42_Recercar_dopo_il_Credo.tsv"
+    },
+    {
+      "url": "12.43_Toccata_avanti_il_Recercar.tsv"
+    },
+    {
+      "url": "12.44_Recercar_con_obligo_di_cantare_la_quinta_parte_non_senza_toccarla.tsv"
+    },
+    {
+      "url": "12.45_Toccata_per_l'Elevatione.tsv"
+    },
+    {
+      "url": "12.46_Bergamasca.tsv"
+    },
+    {
+      "url": "12.47_Capriccio_sopra_la_Girolmeta.tsv"
+    }
+  ],
+  "tableSchema": {
+    "columns": [
+      {
+        "titles": "mc",
+        "datatype": "integer",
+        "dc:description": "Measure count."
+      },
+      {
+        "titles": "mn",
+        "datatype": "string",
+        "dc:description": "Measure number."
+      },
+      {
+        "titles": "quarterbeats",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        }
+      },
+      {
+        "titles": "duration_qb",
+        "datatype": "float"
+      },
+      {
+        "titles": "mc_onset",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        },
+        "dc:description": "An event's distance (fraction of a whole note) from the beginning of the MC."
+      },
+      {
+        "titles": "mn_onset",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        },
+        "dc:description": "An event's distance (fraction of a whole note) from the beginning of the MN."
+      },
+      {
+        "titles": "timesig",
+        "datatype": "string"
+      },
+      {
+        "titles": "staff",
+        "datatype": "integer"
+      },
+      {
+        "titles": "voice",
+        "datatype": "integer"
+      },
+      {
+        "titles": "label",
+        "datatype": "string"
+      },
+      {
+        "titles": "alt_label",
+        "datatype": "string"
+      },
+      {
+        "titles": "globalkey",
+        "datatype": "string"
+      },
+      {
+        "titles": "localkey",
+        "datatype": "string"
+      },
+      {
+        "titles": "pedal",
+        "datatype": "string"
+      },
+      {
+        "titles": "chord",
+        "datatype": "string"
+      },
+      {
+        "titles": "numeral",
+        "datatype": "string"
+      },
+      {
+        "titles": "form",
+        "datatype": "string"
+      },
+      {
+        "titles": "figbass",
+        "datatype": "string"
+      },
+      {
+        "titles": "changes",
+        "datatype": "string"
+      },
+      {
+        "titles": "relativeroot",
+        "datatype": "string"
+      },
+      {
+        "titles": "cadence",
+        "datatype": "string"
+      },
+      {
+        "titles": "phraseend",
+        "datatype": "string"
+      },
+      {
+        "titles": "chord_type",
+        "datatype": "string"
+      },
+      {
+        "titles": "globalkey_is_minor",
+        "datatype": "boolean"
+      },
+      {
+        "titles": "localkey_is_minor",
+        "datatype": "boolean"
+      },
+      {
+        "titles": "chord_tones",
+        "datatype": {
+          "base": "string",
+          "format": "\\(-?\\d+, ?-?\\d+\\)"
+        }
+      },
+      {
+        "titles": "added_tones",
+        "datatype": {
+          "base": "string",
+          "format": "\\(-?\\d+, ?-?\\d+\\)"
+        }
+      },
+      {
+        "titles": "root",
+        "datatype": "integer"
+      },
+      {
+        "titles": "bass_note",
+        "datatype": "integer"
+      }
+    ]
+  }
+}
