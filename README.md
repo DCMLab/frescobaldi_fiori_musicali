@@ -76,7 +76,7 @@ Source files as of 2020-12-21:
 | https://musescore.com/user/11977961/scores/5552416 | 12.18-33_Messa_delli_Apostoli.mscx | CC0     |
 | https://musescore.com/user/11977961/scores/5317011 | 12.01-17_Messa_della_Domenica.mscx | CC0     |
 
-# Overview
+## Overview
 |                               file_name                               |measures|labels|
 |-----------------------------------------------------------------------|-------:|-----:|
 |12.01_Toccata_avanti_la_Messa_della_Domenica                           |       8|    57|
@@ -129,4 +129,4 @@ Source files as of 2020-12-21:
 |12.47_Capriccio_sopra_la_Girolmeta                                     |     102|   375|
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.4.*
+*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
