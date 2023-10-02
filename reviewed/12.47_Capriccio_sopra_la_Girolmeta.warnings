@@ -1,0 +1,23 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.frescobaldi_fiori_musicali.1247_Capriccio_sopra_la_Girolmeta
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	            1a         {             6a        }{
+	            6a        }{            10a         }
+	           10a         {            16a        }{
+	           16a        }{            18a         }
+	           18a         {            26a        }{
+	           26a        }{            28a         }
+	           28a         {            30a         }
+	           30a         {            33a         }
+	           34a         {            39a         }
+	           40a         {            45a         }
+	           46a         {            49a         }
+	           50a         {            55a         }
+	           55a         {            66a        }{
+	           66a        }{            71a         }
+	           72a         {            81a         }
+	           86a         {            85a         }
+	           NaN       NaN           102a         }
