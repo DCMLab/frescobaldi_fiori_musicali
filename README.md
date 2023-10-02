@@ -137,4 +137,4 @@ creating them only for major and minor keys (that is, everything related to scal
 |12.47_Capriccio_sopra_la_Girolmeta                                     |     102|   375|
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*
