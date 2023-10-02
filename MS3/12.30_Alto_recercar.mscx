@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
-  <programRevision>1977cb3</programRevision>
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -159,7 +159,7 @@
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
@@ -336,12 +336,6 @@
             <sigN>4</sigN>
             <sigD>2</sigD>
             </TimeSig>
-          <Tempo>
-            <tempo>3</tempo>
-            <followText>1</followText>
-            <offset x="0.123742" y="-9.12159"/>
-            <text><sym>metNoteHalfUp</sym> = 90</text>
-            </Tempo>
           <StaffText>
             <offset x="-3.83601" y="-8.20724"/>
             <text>Altro recercar</text>
@@ -349,6 +343,12 @@
           <Harmony>
             <name>.g.i{</name>
             </Harmony>
+          <Tempo>
+            <tempo>3</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><font face="ScoreText"/><font face="Edwin"/> = 45</text>
+            </Tempo>
           <Chord>
             <durationType>whole</durationType>
             <Note>
@@ -1997,12 +1997,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>2.83333</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 85</text>
-            </Tempo>
           <Harmony>
             <name>iv6</name>
             </Harmony>
@@ -2013,12 +2007,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>2.66667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 80</text>
-            </Tempo>
           <Harmony>
             <name>III6</name>
             </Harmony>
@@ -2091,12 +2079,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Tempo>
-            <tempo>2.5</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 75</text>
-            </Tempo>
           <Harmony>
             <name>V(64)/III</name>
             </Harmony>
@@ -2115,12 +2097,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>2.33333</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 70</text>
-            </Tempo>
           <Harmony>
             <name>V7/III</name>
             </Harmony>
@@ -2135,12 +2111,6 @@
           <location>
             <fractions>-1/4</fractions>
             </location>
-          <Tempo>
-            <tempo>2</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 60</text>
-            </Tempo>
           <Harmony>
             <name>i(94)</name>
             </Harmony>
@@ -2154,12 +2124,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>1.66667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 50</text>
-            </Tempo>
           <Harmony>
             <name>i</name>
             </Harmony>
@@ -2218,12 +2182,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Tempo>
-            <tempo>1.33333</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 40</text>
-            </Tempo>
           <Harmony>
             <name>V(4)</name>
             </Harmony>
@@ -2242,12 +2200,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>1</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 30</text>
-            </Tempo>
           <Harmony>
             <name>V</name>
             </Harmony>
@@ -2261,12 +2213,6 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>0.666667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 20</text>
-            </Tempo>
           <Harmony>
             <name>i}</name>
             </Harmony>
@@ -2283,12 +2229,6 @@
           <location>
             <fractions>-1/2</fractions>
             </location>
-          <Tempo>
-            <tempo>3</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 90</text>
-            </Tempo>
           <Harmony>
             <name>{</name>
             </Harmony>
@@ -3564,12 +3504,6 @@
           <location>
             <fractions>-1/4</fractions>
             </location>
-          <Tempo>
-            <tempo>2.83333</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 85</text>
-            </Tempo>
           <Harmony>
             <name>i6(2)</name>
             </Harmony>
@@ -3586,12 +3520,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>2.66667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 80</text>
-            </Tempo>
           <Harmony>
             <name>I6</name>
             </Harmony>
@@ -3650,12 +3578,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Tempo>
-            <tempo>2.5</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 75</text>
-            </Tempo>
           <Harmony>
             <name>#viio/v</name>
             </Harmony>
@@ -3691,12 +3613,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>2.33333</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 70</text>
-            </Tempo>
           <Harmony>
             <name>v</name>
             </Harmony>
@@ -3710,12 +3626,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>2</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 60</text>
-            </Tempo>
           <Harmony>
             <name>V(4)/v</name>
             </Harmony>
@@ -3729,12 +3639,6 @@
           <location>
             <fractions>-1/2</fractions>
             </location>
-          <Tempo>
-            <tempo>1.66667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 50</text>
-            </Tempo>
           <Harmony>
             <name>V/v</name>
             </Harmony>
@@ -3768,12 +3672,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Tempo>
-            <tempo>0.666667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 20</text>
-            </Tempo>
           <Harmony>
             <name>v}</name>
             </Harmony>
@@ -3787,12 +3685,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>3</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 90</text>
-            </Tempo>
           <Harmony>
             <name>{</name>
             </Harmony>
@@ -4888,12 +4780,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>2.83333</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 85</text>
-            </Tempo>
           <Harmony>
             <name>V6(4)</name>
             </Harmony>
@@ -4914,12 +4800,6 @@
           <location>
             <fractions>1/4</fractions>
             </location>
-          <Tempo>
-            <tempo>2.66667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 80</text>
-            </Tempo>
           <Harmony>
             <name>i(9)</name>
             </Harmony>
@@ -4936,12 +4816,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>2.5</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 75</text>
-            </Tempo>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -4972,12 +4846,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Tempo>
-            <tempo>2.33333</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 70</text>
-            </Tempo>
           <Harmony>
             <name>V(4)</name>
             </Harmony>
@@ -5016,12 +4884,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>2</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 60</text>
-            </Tempo>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -5029,24 +4891,12 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>1.66667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 50</text>
-            </Tempo>
           <Harmony>
             <name>i}</name>
             </Harmony>
           <Rest>
             <durationType>half</durationType>
             </Rest>
-          <Tempo>
-            <tempo>0.666667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 20</text>
-            </Tempo>
           <Harmony>
             <name>{</name>
             </Harmony>
@@ -5076,12 +4926,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Tempo>
-            <tempo>3</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 90</text>
-            </Tempo>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -7249,12 +7093,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>2.83333</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 85</text>
-            </Tempo>
           <Harmony>
             <name>iv</name>
             </Harmony>
@@ -7274,12 +7112,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>2.66667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 80</text>
-            </Tempo>
           <Harmony>
             <name>I(4)</name>
             </Harmony>
@@ -7314,12 +7146,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>2.5</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 75</text>
-            </Tempo>
           <Harmony>
             <name>i</name>
             </Harmony>
@@ -7383,12 +7209,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Tempo>
-            <tempo>2.33333</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 70</text>
-            </Tempo>
           <Harmony>
             <name>i(13)</name>
             </Harmony>
@@ -7410,16 +7230,7 @@
             <name>i(64)</name>
             </Harmony>
           <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Tempo>
-            <tempo>2</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 60</text>
-            </Tempo>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>1/2</fractions>
             </location>
           <Chord>
             <durationType>eighth</durationType>
@@ -7435,12 +7246,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>1.66667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 50</text>
-            </Tempo>
           <Harmony>
             <name>I(4)</name>
             </Harmony>
@@ -7454,12 +7259,6 @@
           <location>
             <fractions>-1/2</fractions>
             </location>
-          <Tempo>
-            <tempo>1.33333</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 40</text>
-            </Tempo>
           <Harmony>
             <name>I}</name>
             </Harmony>
@@ -7525,12 +7324,6 @@
           <subtype>section</subtype>
           </LayoutBreak>
         <voice>
-          <Tempo>
-            <tempo>1.66667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 50</text>
-            </Tempo>
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>

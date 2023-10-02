@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
-  <programRevision>1977cb3</programRevision>
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -157,7 +157,7 @@
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.764</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
@@ -391,113 +391,69 @@
           <Tempo>
             <tempo>3</tempo>
             <followText>1</followText>
-            <text><sym>metNoteHalfUp</sym> = 90</text>
-            </Tempo>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/2</duration>
-            </Rest>
-          <location>
-            <fractions>-1/2</fractions>
-            </location>
-          <Tempo>
-            <tempo>2.66667</tempo>
-            <followText>1</followText>
             <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 80</text>
-            </Tempo>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Tempo>
-            <tempo>2.5</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 75</text>
+            <text><font face="ScoreText"/><font face="Edwin"/> = 45</text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/2</duration>
             </Rest>
-          <location>
-            <fractions>-3/2</fractions>
-            </location>
-          <Tempo>
-            <tempo>2.33333</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 70</text>
-            </Tempo>
-          <location>
-            <fractions>1/2</fractions>
-            </location>
-          <Tempo>
-            <tempo>2</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 60</text>
-            </Tempo>
-          <location>
-            <fractions>1/2</fractions>
-            </location>
-          <Tempo>
-            <tempo>1.66667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 50</text>
-            </Tempo>
-          <location>
-            <fractions>1/2</fractions>
-            </location>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/2</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/2</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/2</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/2</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/2</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/2</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/2</duration>
+            </Rest>
           <BarLine>
             <visible>0</visible>
             </BarLine>
