@@ -3,8 +3,8 @@ Warnings encountered during the last execution of ms3 review
 
 DCML_HARMONY_SYNTAX_WARNING (15,) ms3.Parse.frescobaldi_fiori_musicali.1245_Toccata_per_l'Elevatione
 	Score contains 1 labels that don't (and 85 that do) match the DCML standard:
-	   mc  mn          label harmony_layer
-	0   1   1  .ephryg.V/iv{             0
+	   mc  mn         label harmony_layer
+	0   1   1  ephryg.V/iv{             1
 DCML_HARMONY_INCOMPLETE_LOCALKEY_COLUMN_WARNING (12,) ms3.Parse.frescobaldi_fiori_musicali.1245_Toccata_per_l'Elevatione
 	propagate_keys() failed with
 	No global key specified.

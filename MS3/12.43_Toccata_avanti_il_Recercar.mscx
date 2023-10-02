@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
-  <programRevision>1977cb3</programRevision>
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -156,6 +156,7 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.764</Spatium>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>0</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -384,9 +385,6 @@
         </VBox>
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
@@ -397,6 +395,10 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 7.5</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>a.i{</name>
+            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -405,7 +407,7 @@
             <fractions>-7/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 20</text>
@@ -415,7 +417,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 17.5</text>
@@ -428,16 +430,23 @@
             <fractions>-7/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 20</text>
             </Tempo>
           <location>
-            <fractions>1/4</fractions>
+            <fractions>1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv7(9)</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 17.5</text>
@@ -451,11 +460,15 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 15</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V[V</name>
+            </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 20</text>
@@ -465,7 +478,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 17.5</text>
@@ -478,7 +491,7 @@
             <fractions>-7/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 20</text>
@@ -492,15 +505,37 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 22.5</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(6)</name>
+            </Harmony>
           <location>
-            <fractions>1/4</fractions>
+            <fractions>1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 20</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7/VII</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VII64</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -511,6 +546,10 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 15</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -519,7 +558,7 @@
             <fractions>-7/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 17.5</text>
@@ -528,11 +567,15 @@
             <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 20</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v(64)</name>
+            </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
@@ -542,11 +585,22 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 22.5</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v(4)</name>
+            </Harmony>
           <location>
-            <fractions>1/4</fractions>
+            <fractions>1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v]</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 20</text>
@@ -561,6 +615,10 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 15</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv(4)</name>
+            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -569,16 +627,20 @@
             <fractions>-7/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 20</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 17.5</text>
@@ -596,7 +658,7 @@
             <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 20</text>
@@ -605,7 +667,7 @@
             <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 17.5</text>
@@ -620,6 +682,10 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 15</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bII</name>
+            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -628,7 +694,7 @@
             <fractions>-7/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 20</text>
@@ -637,7 +703,7 @@
             <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 17.5</text>
@@ -655,7 +721,7 @@
             <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 20</text>
@@ -664,7 +730,7 @@
             <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 17.5</text>
@@ -679,6 +745,10 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 15</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vii6</name>
+            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -687,7 +757,7 @@
             <fractions>-7/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 20</text>
@@ -696,7 +766,7 @@
             <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 17.5</text>
@@ -710,11 +780,15 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 15</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vii</name>
+            </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 20</text>
@@ -723,15 +797,26 @@
             <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 17.5</text>
             </Tempo>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V6/VI</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VI</name>
+            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -740,11 +825,15 @@
             <fractions>-3/4</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 20</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv6</name>
+            </Harmony>
           <location>
             <fractions>1/2</fractions>
             </location>
@@ -758,6 +847,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -766,20 +859,38 @@
             <fractions>-3/4</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 20</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)</name>
+            </Harmony>
           <location>
-            <fractions>3/8</fractions>
+            <fractions>1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 17.5</text>
             </Tempo>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv6</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -790,6 +901,10 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 15</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -798,7 +913,7 @@
             <fractions>-7/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.333333</tempo>
+            <tempo>0.33333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 10</text>
@@ -807,11 +922,15 @@
             <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.166667</tempo>
+            <tempo>0.16666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 5</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VI6</name>
+            </Harmony>
           <location>
             <fractions>1/16</fractions>
             </location>
@@ -825,7 +944,7 @@
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 17.5</text>
@@ -834,20 +953,35 @@
             <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 20</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
           <location>
-            <fractions>3/8</fractions>
+            <fractions>1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V6(4)</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 17.5</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V6</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -858,6 +992,10 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 15</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -866,7 +1004,7 @@
             <fractions>-13/16</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 20</text>
@@ -875,7 +1013,7 @@
             <fractions>3/16</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 17.5</text>
@@ -893,7 +1031,7 @@
             <fractions>3/16</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 20</text>
@@ -902,7 +1040,7 @@
             <fractions>3/16</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 17.5</text>
@@ -917,6 +1055,10 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 15</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V6</name>
+            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -925,7 +1067,7 @@
             <fractions>-13/16</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 20</text>
@@ -934,11 +1076,15 @@
             <fractions>3/16</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 17.5</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
@@ -948,11 +1094,15 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 15</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I6</name>
+            </Harmony>
           <location>
             <fractions>3/16</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 20</text>
@@ -961,11 +1111,15 @@
             <fractions>3/16</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 17.5</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -976,6 +1130,10 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 15</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -984,20 +1142,28 @@
             <fractions>-3/4</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 20</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)</name>
+            </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 17.5</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(4)</name>
+            </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
@@ -1007,6 +1173,10 @@
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 15</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
@@ -1021,11 +1191,15 @@
           </LayoutBreak>
         <voice>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 20</text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I}</name>
+            </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
@@ -1042,9 +1216,6 @@
     <Staff id="2">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
@@ -1053,9 +1224,6 @@
             <offset x="-0.464011" y="-9.63187"/>
             <text>Toccata avanti il Recercar</text>
             </StaffText>
-          <Harmony>
-            <name>.a.i{</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -1156,18 +1324,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <name>iv7(9)</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <name>V[V</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -1237,9 +1393,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V(6)</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1248,24 +1401,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <name>V(64)</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <name>V7/VII</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <name>VII64</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1337,9 +1472,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <name>V7</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1372,9 +1504,6 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>v(64)</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1383,18 +1512,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <name>v(4)</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <name>v]</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -1445,9 +1562,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <name>iv(4)</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1463,9 +1577,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>iv</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -1561,9 +1672,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <name>.bII</name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -1627,9 +1735,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <name>vii6</name>
-            </Harmony>
           <Chord>
             <dots>2</dots>
             <durationType>half</durationType>
@@ -1638,18 +1743,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-3/8</fractions>
-            </location>
-          <Harmony>
-            <name>vii</name>
-            </Harmony>
-          <location>
-            <fractions>3/8</fractions>
-            </location>
-          <Harmony>
-            <name>V6/VI</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1715,9 +1808,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <name>VI</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -1733,9 +1823,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>iv6</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1837,9 +1924,6 @@
       <Measure>
         <vspacerDown>8.19049</vspacerDown>
         <voice>
-          <Harmony>
-            <name>V7</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -1871,9 +1955,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V(64)</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -1909,9 +1990,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>i6</name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -1919,12 +1997,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <name>iv6</name>
-            </Harmony>
           </voice>
         <voice>
           <Chord>
@@ -2004,9 +2076,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <name>iv</name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -2014,18 +2083,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <name>VI6</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <name>i</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2054,9 +2111,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V6(4)</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2071,9 +2125,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V6</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2115,9 +2166,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -2177,9 +2225,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <name>V6</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -2211,21 +2256,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-5/16</fractions>
-            </location>
-          <Harmony>
-            <name>I</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <name>I6</name>
-            </Harmony>
-          <location>
-            <fractions>3/16</fractions>
-            </location>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2250,19 +2280,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <name>I</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -2278,9 +2299,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V(64)</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2309,9 +2327,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V(4)</name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -2320,13 +2335,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>0</fractions>
             </location>
           <BarLine>
             <visible>0</visible>
@@ -2347,9 +2356,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <name>I}</name>
-            </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
@@ -2386,9 +2392,6 @@
     <Staff id="3">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
@@ -3232,9 +3235,6 @@
     <Staff id="4">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
@@ -4394,9 +4394,6 @@
     <Staff id="5">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>

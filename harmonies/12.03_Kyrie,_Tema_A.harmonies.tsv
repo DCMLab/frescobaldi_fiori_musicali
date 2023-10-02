@@ -1,5 +1,5 @@
 mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	alt_label	globalkey	localkey	pedal	chord	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note
-1	1	0	0	2.0	0	0	4/2	1	1	.d.V{	v{	d	i		V	V						{	M	1	1	1, 5, 2		1	1
+1	1	0	0	2.0	0	0	4/2	1	1	d.V{	v{	d	i		V	V						{	M	1	1	1, 5, 2		1	1
 1	1	2	2	2.0	1/2	1/2	4/2	1	1	i		d	i		i	i							m	1	1	0, -3, 1		0	0
 1	1	4	4	2.0	1	1	4/2	1	1	VI6		d	i		VI6	VI		6					M	1	1	0, -3, -4		-4	0
 1	1	6	6	2.0	3/2	3/2	4/2	1	1	III		d	i		III	III							M	1	1	-3, 1, -2		-3	-3

@@ -1,5 +1,5 @@
 mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	offset_x	offset_y	minDistance	offset	globalkey	localkey	pedal	chord	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note	n_colored	n_untouched	count_ratio	dur_colored	dur_untouched	dur_ratio
-1	1	0	0	4/4	1	1	.C.V{					C	I		V	V						{	M	0	0	1, 5, 2		1.0	1.0	1	6	0.14285714285714285	0.125	1.125	0.1
+1	1	0	0	4/4	1	1	C.V{					C	I		V	V						{	M	0	0	1, 5, 2		1.0	1.0	1	6	0.14285714285714285	0.125	1.125	0.1
 2	2	1/4	1/4	4/4	1	1	I					C	I		I	I							M	0	0	0, 4, 1		0.0	0.0	6	13	0.3157894736842105	0.6875	2.4375	0.22
 4	4	1/4	1/4	4/4	1	1	IV					C	I		IV	IV							M	0	0	-1, 3, 0		-1.0	-1.0	6	5	0.5454545454545454	0.6875	0.8125	0.4583333333333333
 5	5	0	0	4/4	1	1	I					C	I		I	I							M	0	0	0, 4, 1		0.0	0.0	0	4	0.0	0.0	1.125	0.0
@@ -115,7 +115,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	offset_x	offset_y	minDistance	
 42	42	1/2	1/2	3/2	1	1	IV					C	I		IV	IV							M	0	0	-1, 3, 0		-1.0	-1.0	2	3	0.4	0.5	1.25	0.2857142857142857
 42	42	1	1	3/2	1	1	I6					C	I		I6	I		6					M	0	0	4, 1, 0		0.0	4.0	0	5	0.0	0.0	2.0	0.0
 43	43	0	0	3/2	1	1	ii7					C	I		ii7	ii		7					mm7	0	0	2, -1, 3, 0		2.0	2.0	1	5	0.16666666666666666	0.125	3.125	0.038461538461538464
-43	43	1/2	1/2	3/2	1	1	.bVII6					C	I		bVII6	bVII		6					M	0	0	2, -1, -2		-2.0	2.0	2	2	0.5	0.5	0.75	0.4
+43	43	1/2	1/2	3/2	1	1	bVII6					C	I		bVII6	bVII		6					M	0	0	2, -1, -2		-2.0	2.0	2	2	0.5	0.5	0.75	0.4
 43	43	1	1	3/2	1	1	ii					C	I		ii	ii							m	0	0	2, -1, 3		2.0	2.0	1	4	0.2	0.25	1.25	0.16666666666666666
 44	44	0	0	8/4	1	1	vi					C	I		vi	vi							m	0	0	3, 0, 4		3.0	3.0	0	4	0.0	0.0	2.0	0.0
 44	44	1/2	1/2	8/4	1	1	I6					C	I		I6	I		6					M	0	0	4, 1, 0		0.0	4.0	0	4	0.0	0.0	3.5	0.0

@@ -38,6 +38,7 @@
       <pedalLineWidth>0.11</pedalLineWidth>
       <pedalFontFace>Edwin</pedalFontFace>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
       <chordSymbolAFontSize>11</chordSymbolAFontSize>
       <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
@@ -157,7 +158,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -242,6 +242,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="19"/>
           <synti>Fluid</synti>
@@ -260,11 +261,11 @@
             <sigD>2</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>6</tempo>
+            <tempo>3</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0.761233" y="-11.0136"/>
-            <text><font face="ScoreText"></font><font face="Edwin"></font> = 90</text>
+            <text><font face="ScoreText"/><font face="Edwin"/> = 45</text>
             </Tempo>
           <StaffText>
             <offset x="-3.29868" y="-9.96299"/>
@@ -881,7 +882,7 @@
             <duration>8/4</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>

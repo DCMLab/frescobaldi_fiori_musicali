@@ -76,6 +76,17 @@ Source files as of 2020-12-21:
 | https://musescore.com/user/11977961/scores/5552416 | 12.18-33_Messa_delli_Apostoli.mscx | CC0     |
 | https://musescore.com/user/11977961/scores/5317011 | 12.01-17_Messa_della_Domenica.mscx | CC0     |
 
+### Modifications
+
+The following modifications have already been applied to nos. 3, 4, 5, 8, 11, 14, 25, 30, 33, 37, 40, 41, 46, 47 
+(commit 19c98d5d) but are still ToDo for the remaining 34 scores:
+
+* Some of the scores have deprecated MIDI channel information which is also set to "Mute". It is enough to open the 
+  Staff Properties and set the instrument to "Organ" to normalize them. 
+* A few scores have multiple staves although only two are being used (see metadata.tsv).
+* As it seems, all scores include hidden metronome marks which should be removed. The first mark, on the other hand, 
+  should remain, but need to be hidden; beat unit and tempo need to be halved.
+
 ## Alternative annotations
 
 Adrian Nagel has created an alternative version of the annotations for `12.16_Toccata_cromaticha_per_l’elevatione`
