@@ -265,6 +265,7 @@
           <Tempo>
             <tempo>2</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <text><font face="ScoreText"></font><font face="Edwin"></font> = 60</text>
             </Tempo>
           <Chord>

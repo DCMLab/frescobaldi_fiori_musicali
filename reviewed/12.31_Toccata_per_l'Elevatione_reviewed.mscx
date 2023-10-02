@@ -38,6 +38,7 @@
       <pedalLineWidth>0.11</pedalLineWidth>
       <pedalFontFace>Edwin</pedalFontFace>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
       <chordSymbolAFontSize>11</chordSymbolAFontSize>
       <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
@@ -158,7 +159,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>0</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -346,7 +346,7 @@
             </Tempo>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ephryg.V/iv{</name>
+            <name>e.phryg.V/iv{</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>

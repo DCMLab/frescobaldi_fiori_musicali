@@ -38,6 +38,7 @@
       <pedalLineWidth>0.11</pedalLineWidth>
       <pedalFontFace>Edwin</pedalFontFace>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
       <chordSymbolAFontSize>11</chordSymbolAFontSize>
       <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
@@ -156,7 +157,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.764</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>0</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -232,6 +232,15 @@
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>0</midiChannel>
+          </Channel>
+        <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="0"/>
+          <controller ctrl="7" value="101"/>
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>4</midiChannel>
           </Channel>
         </Instrument>
       </Part>
@@ -397,7 +406,7 @@
             </Tempo>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ephryg.V/iv{</name>
+            <name>e.phryg.V/iv{</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
@@ -405,7 +414,7 @@
             <duration>4/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
