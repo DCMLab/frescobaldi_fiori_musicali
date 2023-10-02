@@ -76,6 +76,15 @@ Source files as of 2020-12-21:
 | https://musescore.com/user/11977961/scores/5552416 | 12.18-33_Messa_delli_Apostoli.mscx | CC0     |
 | https://musescore.com/user/11977961/scores/5317011 | 12.01-17_Messa_della_Domenica.mscx | CC0     |
 
+## Alternative annotations
+
+Adrian Nagel has created an alternative version of the annotations for `12.16_Toccata_cromaticha_per_l’elevatione`
+which considers the key to be E (phrygian). This was achieved in an additional copy of the score which is present in 
+the Git history as `12.16_Toccata_cromaticha_per_l’elevatione_phrygian` up until commit 0f4bdb9a. The annotation 
+file is still present as `harmonies/12.16_Toccata_cromaticha_per_l’elevatione_phrygian_phrygian.harmonies.tsv`.
+However, the columns related to chord tones have been manually removed because the ms3 parser currently supports 
+creating them only for major and minor keys (that is, everything related to scale degree 2 would be incorrect).
+
 ## Overview
 |                               file_name                               |measures|labels|
 |-----------------------------------------------------------------------|-------:|-----:|
@@ -95,7 +104,6 @@ Source files as of 2020-12-21:
 |12.14_Canzon_dopo_l’Epistola                                           |      59|   211|
 |12.15_Recercar_dopo_il_Credo                                           |      47|   162|
 |12.16_Toccata_cromaticha_per_l’elevatione                              |      53|   199|
-|12.16_Toccata_cromaticha_per_l’elevatione_phrygian                     |      53|   198|
 |12.17_Canzon_post_il_Comune                                            |      80|   213|
 |12.18_Toccata_avanti_la_Messa_delli_Apostoli                           |      21|    74|
 |12.19_Kyrie,_Tema_E_1                                                  |      16|    46|
