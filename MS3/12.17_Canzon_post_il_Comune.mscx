@@ -252,16 +252,19 @@
       </Part>
     <Staff id="1">
       <VBox>
+        <height>13.7691</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>La Messa della Domenica, 17: Canzon post il Comune</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <text>from Fiori Musicali</text>
+          <text>from <i>Fiori Musicali</i></text>
           </Text>
         <Text>
           <style>Composer</style>
+          <offset x="0" y="-3.52778"/>
           <text>Girolamo Frescobaldi</text>
           </Text>
         </VBox>
@@ -271,10 +274,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <offset x="-3.4786" y="-11.3437"/>
-            <text>Canzon post il Comune</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>C.V{</name>

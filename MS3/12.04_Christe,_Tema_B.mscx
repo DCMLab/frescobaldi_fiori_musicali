@@ -264,16 +264,19 @@
       </Part>
     <Staff id="1">
       <VBox>
+        <height>12.996</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>La Messa della Domenica, 4: Christe, Tema B</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <text>from Fiori Musicali</text>
+          <text>from <i>Fiori Musicali</i></text>
           </Text>
         <Text>
           <style>Composer</style>
+          <offset x="0" y="-2.46945"/>
           <text>Girolamo Frescobaldi</text>
           </Text>
         </VBox>
@@ -290,10 +293,6 @@
             <offset x="0.761233" y="-11.0136"/>
             <text><font face="ScoreText"></font><font face="Edwin"></font> = 45</text>
             </Tempo>
-          <StaffText>
-            <offset x="-3.29868" y="-9.96299"/>
-            <text>Christe, Tema B</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>d.i{</name>

@@ -38,6 +38,7 @@
       <pedalLineWidth>0.11</pedalLineWidth>
       <pedalFontFace>Edwin</pedalFontFace>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
       <chordSymbolAFontSize>11</chordSymbolAFontSize>
       <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
@@ -157,7 +158,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -251,6 +251,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="19"/>
           <synti>Fluid</synti>
@@ -263,16 +264,19 @@
       </Part>
     <Staff id="1">
       <VBox>
+        <height>14.2523</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>La Messa della Domenica, 14: Canzon dopo l’Epistola</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <text>from Fiori Musicali</text>
+          <text>from <i>Fiori Musicali</i></text>
           </Text>
         <Text>
           <style>Composer</style>
+          <offset x="0" y="-1.76389"/>
           <text>Girolamo Frescobaldi</text>
           </Text>
         </VBox>
@@ -299,11 +303,6 @@
             </Rest>
           </voice>
         <voice>
-          <StaffText>
-            <minDistance>0.0807329</minDistance>
-            <offset x="-9.26231" y="-6.10073"/>
-            <text>Canzon dopo l'Epistola</text>
-            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>

@@ -264,16 +264,19 @@
       </Part>
     <Staff id="1">
       <VBox>
+        <height>12.0626</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>La Messa della Domenica, 3: Kyrie, Tema A</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <text>from Fiori Musicali</text>
+          <text>from <i>Fiori Musicali</i></text>
           </Text>
         <Text>
           <style>Composer</style>
+          <offset x="0" y="-1.41111"/>
           <text>Girolamo Frescobaldi</text>
           </Text>
         </VBox>
@@ -283,10 +286,6 @@
             <sigN>4</sigN>
             <sigD>2</sigD>
             </TimeSig>
-          <StaffText>
-            <offset x="-3.1718" y="-7.80616"/>
-            <text>Kyrie, Tema A</text>
-            </StaffText>
           <Tempo>
             <tempo>3</tempo>
             <followText>1</followText>

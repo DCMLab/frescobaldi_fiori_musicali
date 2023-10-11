@@ -38,6 +38,7 @@
       <pedalLineWidth>0.11</pedalLineWidth>
       <pedalFontFace>Edwin</pedalFontFace>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
       <chordSymbolAFontSize>11</chordSymbolAFontSize>
       <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
@@ -156,7 +157,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>0</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -253,13 +253,17 @@
       </Part>
     <Staff id="1">
       <VBox>
+        <height>13.4792</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text>La Messa della Domenica, 1: Toccata avanti la Messa della Domenica</text>
+          <text>La Messa della Domenica, 1: 
+Toccata avanti la Messa della Domenica</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <text>from Fiori Musicali</text>
+          <offset x="1.60425e-14" y="17.6711"/>
+          <text>from <i>Fiori Musical</i>i</text>
           </Text>
         <Text>
           <style>Composer</style>
@@ -272,14 +276,10 @@
             <sigN>4</sigN>
             <sigD>2</sigD>
             </TimeSig>
-          <StaffText>
-            <offset x="-3.39111" y="-8.53845"/>
-            <text>Toccata avanti</text>
-            </StaffText>
           <Tempo>
             <tempo>1.3333299999999999</tempo>
             <followText>1</followText>
-            <offset x="0.814593" y="-9.66342"/>
+            <offset x="0.814593" y="-6.46342"/>
             <text><sym>metNoteHalfUp</sym> = 40</text>
             </Tempo>
           <Harmony>
