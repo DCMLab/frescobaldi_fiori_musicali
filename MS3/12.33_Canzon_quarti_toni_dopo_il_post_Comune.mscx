@@ -322,18 +322,21 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>17.7617</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text>La Messa degli Apostoli, 16: Canzon quarti toni dopo il post Comune</text>
+          <text>La Messa degli Apostoli, 
+16: Canzon quarti toni dopo il post Comune</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <text>from Fiori Musicali</text>
+          <offset x="0" y="17.4083"/>
+          <text>from <i>Fiori Musicali</i></text>
           </Text>
         <Text>
           <style>Composer</style>
+          <offset x="0" y="-2.46945"/>
           <text>Girolamo Frescobaldi</text>
           </Text>
         </VBox>
@@ -343,10 +346,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <offset x="-3.14287" y="-8.30671"/>
-            <text>Canzon quarti toni dopo il post Comune</text>
-            </StaffText>
           <Tempo>
             <tempo>1.8333333333333333</tempo>
             <followText>1</followText>
@@ -2241,7 +2240,7 @@
             <name>V7/iv</name>
             </Harmony>
           <location>
-            <fractions>1</fractions>
+            <fractions>1/1920</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>

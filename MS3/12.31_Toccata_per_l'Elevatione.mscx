@@ -322,7 +322,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>12.2228</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -330,10 +330,11 @@
           </Text>
         <Text>
           <style>Subtitle</style>
-          <text>from Fiori Musicali</text>
+          <text>from <i>Fiori Musicali</i></text>
           </Text>
         <Text>
           <style>Composer</style>
+          <offset x="0" y="-2.46945"/>
           <text>Girolamo Frescobaldi</text>
           </Text>
         </VBox>
@@ -343,14 +344,11 @@
             <sigN>4</sigN>
             <sigD>2</sigD>
             </TimeSig>
-          <StaffText>
-            <offset x="-5.72277" y="-8.89615"/>
-            <text>Toccata per l'Elevatione</text>
-            </StaffText>
           <Tempo>
             <tempo>1.3333299999999999</tempo>
             <followText>1</followText>
-            <offset x="0" y="-9.43928"/>
+            <minDistance>0.274897</minDistance>
+            <offset x="0.0966442" y="-4.99365"/>
             <text><sym>metNoteHalfUp</sym> = 40</text>
             </Tempo>
           <Harmony>

@@ -38,6 +38,7 @@
       <pedalLineWidth>0.11</pedalLineWidth>
       <pedalFontFace>Edwin</pedalFontFace>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
       <chordSymbolAFontSize>11</chordSymbolAFontSize>
       <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
@@ -158,7 +159,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>0</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -322,18 +322,21 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>17.7932</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text>La Messa degli Apostoli, 12: Recercar cromaticho post il Credo</text>
+          <text>La Messa degli Apostoli, 
+12: Recercar cromaticho post il Credo</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <text>from Fiori Musicali</text>
+          <offset x="0" y="17.6711"/>
+          <text>from <i>Fiori Musicali</i></text>
           </Text>
         <Text>
           <style>Composer</style>
+          <offset x="0" y="-2.75711"/>
           <text>Girolamo Frescobaldi</text>
           </Text>
         </VBox>
@@ -346,13 +349,10 @@
           <Tempo>
             <tempo>3</tempo>
             <followText>1</followText>
-            <offset x="0.507489" y="-7.58806"/>
+            <minDistance>-0.0300156</minDistance>
+            <offset x="0.507489" y="-4.68873"/>
             <text><sym>metNoteHalfUp</sym> = 90</text>
             </Tempo>
-          <StaffText>
-            <offset x="-3.1718" y="-7.1718"/>
-            <text>Recercar cromaticho post il Credo</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>d.v{</name>
@@ -1785,23 +1785,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-3/2</fractions>
-            </location>
-          <Tempo>
-            <tempo>2.3333300000000001</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteHalfUp</sym> = 70</text>
-            </Tempo>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
-          <location>
-            <fractions>1</fractions>
-            </location>
-          <location>
-            <fractions>-1/2</fractions>
+            <fractions>-3839/1920</fractions>
             </location>
           <Tempo>
             <tempo>2</tempo>
@@ -1814,7 +1798,20 @@
             <name>V(4)</name>
             </Harmony>
           <location>
-            <fractions>1/2</fractions>
+            <fractions>959/1920</fractions>
+            </location>
+          <Tempo>
+            <tempo>2.3333300000000001</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteHalfUp</sym> = 70</text>
+            </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
+          <location>
+            <fractions>1/1920</fractions>
             </location>
           <Tempo>
             <tempo>1.6666700000000001</tempo>
@@ -3424,7 +3421,7 @@
             <duration>4/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -3936,7 +3933,7 @@
             <duration>4/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -4749,7 +4746,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -4829,7 +4826,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -4874,7 +4871,7 @@
             <duration>4/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -6068,9 +6065,6 @@
           <location>
             <fractions>1/2</fractions>
             </location>
-          <location>
-            <fractions>0</fractions>
-            </location>
           <Tempo>
             <tempo>1.6666700000000001</tempo>
             <followText>1</followText>
@@ -6078,7 +6072,7 @@
             <text><sym>metNoteHalfUp</sym> = 50</text>
             </Tempo>
           <location>
-            <fractions>1</fractions>
+            <fractions>1/1920</fractions>
             </location>
           <Tempo>
             <tempo>1.3333299999999999</tempo>

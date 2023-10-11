@@ -38,6 +38,7 @@
       <pedalLineWidth>0.11</pedalLineWidth>
       <pedalFontFace>Edwin</pedalFontFace>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
       <chordSymbolAFontSize>11</chordSymbolAFontSize>
       <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
@@ -158,7 +159,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -322,7 +322,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>12.5128</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -330,10 +330,11 @@
           </Text>
         <Text>
           <style>Subtitle</style>
-          <text>from Fiori Musicali</text>
+          <text>from <i>Fiori Musicali</i></text>
           </Text>
         <Text>
           <style>Composer</style>
+          <offset x="0" y="-2.89799"/>
           <text>Girolamo Frescobaldi</text>
           </Text>
         </VBox>
@@ -343,10 +344,6 @@
             <sigN>4</sigN>
             <sigD>2</sigD>
             </TimeSig>
-          <StaffText>
-            <offset x="-3.39531" y="-6.60307"/>
-            <text>Kyrie, Tema G 2</text>
-            </StaffText>
           <Tempo>
             <tempo>3</tempo>
             <followText>1</followText>
@@ -624,7 +621,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -1055,7 +1052,7 @@
             <duration>8/4</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -1515,7 +1512,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
