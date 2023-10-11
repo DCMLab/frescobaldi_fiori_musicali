@@ -164,21 +164,30 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q209212</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1635</metaTag>
+    <metaTag name="composed_end2">1635</metaTag>
+    <metaTag name="composed_source">Bärenreiter Verlag (https://imslp.org/wiki/Special:ReverseLookup/39823)</metaTag>
     <metaTag name="composed_start">1635</metaTag>
+    <metaTag name="composed_start2">1635</metaTag>
     <metaTag name="composer">Girolamo Frescobaldi</metaTag>
     <metaTag name="copyright">1635</metaTag>
     <metaTag name="creationDate">2018-11-22</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Fiori_Musicali,_Op.12_(Frescobaldi,_Girolamo)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">10</metaTag>
+    <metaTag name="movementTitle">Canzon dopo l’Epistola</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/d7d60a97-ffa6-423c-93ae-bb73dd798605</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/39823</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/179864547/</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q3072749</metaTag>
+    <metaTag name="workNumber">Op.12</metaTag>
     <metaTag name="workTitle">La Messa degli Apostoli</metaTag>
     <Part>
       <Staff id="1">
