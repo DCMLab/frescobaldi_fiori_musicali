@@ -1,0 +1,913 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+
+    <title>README &#8212; Girolamo Frescobaldi – Fiori Musicali v2.1 documentation</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=e353d410970836974a52" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/jupyter-sphinx.css" />
+    <link rel="stylesheet" type="text/css" href="_static/thebelab.css" />
+    <link rel="stylesheet" type="text/css" href="_static/custom.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=e353d410970836974a52" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52" />
+
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/sphinx_highlight.js"></script>
+    <script src="_static/thebelab-helper.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@jupyter-widgets/html-manager@^1.0.1/dist/embed-amd.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'index';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="How to use" href="introduction.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search the docs ..."
+         aria-label="Search the docs ..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
+<div class="bd-header__inner bd-page-width">
+  <label class="sidebar-toggle primary-toggle" for="__primary">
+    <span class="fa-solid fa-bars"></span>
+  </label>
+  
+  <div class="navbar-header-items__start">
+    
+      <div class="navbar-item">
+  
+
+<a class="navbar-brand logo" href="#">
+  
+  
+  
+  
+  
+    <p class="title logo__title">Girolamo Frescobaldi – Fiori Musicali v2.1 documentation</p>
+  
+</a></div>
+    
+  </div>
+  
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    <div class="me-auto navbar-header-items__center">
+      
+        <div class="navbar-item"><nav class="navbar-nav">
+  <p class="sidebar-header-items__title"
+     role="heading"
+     aria-level="1"
+     aria-label="Site Navigation">
+    Site Navigation
+  </p>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="introduction.html">
+                        How to use
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="analyses.html">
+                        Analyses
+                      </a>
+                    </li>
+                
+  </ul>
+</nav></div>
+      
+    </div>
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+  </button>
+`);
+</script>
+        </div>
+      
+      
+        <div class="navbar-item">
+<script>
+document.write(`
+  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
+    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
+    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
+  </button>
+`);
+</script></div>
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+  </button>
+`);
+</script>
+    </div>
+  
+
+  
+    <label class="sidebar-toggle secondary-toggle" for="__secondary">
+      <span class="fa-solid fa-outdent"></span>
+    </label>
+  
+</div>
+
+    </nav>
+  
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      <div class="bd-sidebar-primary bd-sidebar hide-on-wide">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+      <div class="sidebar-header-items__center">
+        
+          <div class="navbar-item"><nav class="navbar-nav">
+  <p class="sidebar-header-items__title"
+     role="heading"
+     aria-level="1"
+     aria-label="Site Navigation">
+    Site Navigation
+  </p>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="introduction.html">
+                        How to use
+                      </a>
+                    </li>
+                
+
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="analyses.html">
+                        Analyses
+                      </a>
+                    </li>
+                
+  </ul>
+</nav></div>
+        
+      </div>
+    
+    
+    
+      <div class="sidebar-header-items__end">
+        
+          <div class="navbar-item">
+<script>
+document.write(`
+  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
+    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
+    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
+  </button>
+`);
+</script></div>
+        
+      </div>
+    
+  </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article"></div>
+              
+              
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article" role="main">
+                  
+  <nav class="contents local" id="readme" role="doc-toc">
+<p class="topic-title">README</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="#readme" id="id1">README</a></p>
+<ul>
+<li><p><a class="reference internal" href="#girolamo-frescobaldi-1583-1643-fiori-musicali-op-12-1635" id="id2">Girolamo Frescobaldi (1583-1643) - Fiori Musicali, op. 12 (1635)</a></p>
+<ul>
+<li><p><a class="reference internal" href="#messa-della-domenica" id="id3">Messa della Domenica</a></p></li>
+<li><p><a class="reference internal" href="#messa-delli-apostoli" id="id4">Messa delli Apostoli</a></p></li>
+<li><p><a class="reference internal" href="#messa-della-madonna" id="id5">Messa della Madonna</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#source" id="id6">Source</a></p>
+<ul>
+<li><p><a class="reference internal" href="#modifications" id="id7">Modifications</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#alternative-annotations" id="id8">Alternative annotations</a></p></li>
+<li><p><a class="reference internal" href="#overview" id="id9">Overview</a></p></li>
+</ul>
+</li>
+</ul>
+</nav>
+<section id="readme">
+<h1><a class="toc-backref" href="#id1" role="doc-backlink">README</a><a class="headerlink" href="#readme" title="Permalink to this heading">#</a></h1>
+<section id="girolamo-frescobaldi-1583-1643-fiori-musicali-op-12-1635">
+<h2><a class="toc-backref" href="#id2" role="doc-backlink">Girolamo Frescobaldi (1583-1643) - Fiori Musicali, op. 12 (1635)</a><a class="headerlink" href="#girolamo-frescobaldi-1583-1643-fiori-musicali-op-12-1635" title="Permalink to this heading">#</a></h2>
+<section id="messa-della-domenica">
+<h3><a class="toc-backref" href="#id3" role="doc-backlink">Messa della Domenica</a><a class="headerlink" href="#messa-della-domenica" title="Permalink to this heading">#</a></h3>
+<table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>title</p></th>
+<th class="head"><p>catalogue_no</p></th>
+<th class="head"><p>filename</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>01. Toccata avanti la Messa della Domenica</p></td>
+<td><p>F 12.01</p></td>
+<td><p>12.01_Toccata_avanti_la_Messa_della_Domenica.mscx</p></td>
+</tr>
+<tr class="row-odd"><td><p>02. Kyrie della domenica</p></td>
+<td><p>F 12.02</p></td>
+<td><p>12.02_Kyrie_della_domenica.mscx</p></td>
+</tr>
+<tr class="row-even"><td><p>03. Kyrie</p></td>
+<td><p>F 12.03</p></td>
+<td><p>12.03_Kyrie,_Tema_A.mscx</p></td>
+</tr>
+<tr class="row-odd"><td><p>04. Christe</p></td>
+<td><p>F 12.04</p></td>
+<td><p>12.04_Christe,_Tema_B.mscx</p></td>
+</tr>
+<tr class="row-even"><td><p>05. Christe alio modo</p></td>
+<td><p>F 12.05</p></td>
+<td><p>12.05_Christe,_Tema_B,_alio_modo.mscx</p></td>
+</tr>
+<tr class="row-odd"><td><p>06. Christe alio modo</p></td>
+<td><p>F 12.06</p></td>
+<td><p>12.06_Christe,_Tema_B,_alio_modo_II.mscx</p></td>
+</tr>
+<tr class="row-even"><td><p>07. Christe alio modo</p></td>
+<td><p>F 12.07</p></td>
+<td><p>12.07_Christe,_Tema_B,_alio_modo_III.mscx</p></td>
+</tr>
+<tr class="row-odd"><td><p>08. Kyrie</p></td>
+<td><p>F 12.08</p></td>
+<td><p>12.08_Kyrie,_Tema_C.mscx</p></td>
+</tr>
+<tr class="row-even"><td><p>09. Kyrie alio modo</p></td>
+<td><p>F 12.09</p></td>
+<td><p>12.09_Kyrie,_Tema_D,_alio_modo_I.mscx</p></td>
+</tr>
+<tr class="row-odd"><td><p>10. Kyrie alio modo</p></td>
+<td><p>F 12.10</p></td>
+<td><p>12.10_Kyrie,_Tema_D,_alio_modo_II.mscx</p></td>
+</tr>
+<tr class="row-even"><td><p>11. Kyrie ultimo</p></td>
+<td><p>F 12.11</p></td>
+<td><p>12.11_Kyrie_ultimo.mscx</p></td>
+</tr>
+<tr class="row-odd"><td><p>12. Kyrie alio modo</p></td>
+<td><p>F 12.12</p></td>
+<td><p>12.12_Kyrie,_Tema_D,_alio_modo_III.mscx</p></td>
+</tr>
+<tr class="row-even"><td><p>13. Kyrie alio modo</p></td>
+<td><p>F 12.13</p></td>
+<td><p>12.13_Kyrie,_Tema_D,_alio_modo_IV.mscx</p></td>
+</tr>
+<tr class="row-odd"><td><p>14. Canzon dopo l’Epistola</p></td>
+<td><p>F 12.14</p></td>
+<td><p>12.14_Canzon_dopo_l’Epistola.mscx</p></td>
+</tr>
+<tr class="row-even"><td><p>15. Recercar dopo il Credo</p></td>
+<td><p>F 12.15</p></td>
+<td><p>12.15_Recercar_dopo_il_Credo.mscx</p></td>
+</tr>
+<tr class="row-odd"><td><p>16. Toccata cromaticha per l’elevatione</p></td>
+<td><p>F 12.16</p></td>
+<td><p>12.16_Toccata_cromaticha_per_l’elevatione.mscx</p></td>
+</tr>
+<tr class="row-even"><td><p>17. Canzon post il Comune</p></td>
+<td><p>F 12.17</p></td>
+<td><p>12.17_Canzon_post_il_Comune.mscx</p></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="messa-delli-apostoli">
+<h3><a class="toc-backref" href="#id4" role="doc-backlink">Messa delli Apostoli</a><a class="headerlink" href="#messa-delli-apostoli" title="Permalink to this heading">#</a></h3>
+<table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>title</p></th>
+<th class="head"><p>catalogue_no</p></th>
+<th class="head"><p>filename</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>18. Toccata avanti la Messa delli Apostoli</p></td>
+<td><p>F 12.18</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-odd"><td><p>19. Kyrie delli Apostoli</p></td>
+<td><p>F 12.19</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-even"><td><p>20. Kyrie</p></td>
+<td><p>F 12.20</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-odd"><td><p>21. Kyrie</p></td>
+<td><p>F 12.21</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-even"><td><p>22. Christe</p></td>
+<td><p>F 12.22</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-odd"><td><p>23. Christe</p></td>
+<td><p>F 12.23</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-even"><td><p>24. Kyrie</p></td>
+<td><p>F 12.24</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-odd"><td><p>25. Kyrie</p></td>
+<td><p>F 12.25</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-even"><td><p>26. Kyrie</p></td>
+<td><p>F 12.26</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-odd"><td><p>27. Canzon dopo l’Epistola</p></td>
+<td><p>F 12.27</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-even"><td><p>28. Toccata avanti il Recercar</p></td>
+<td><p>F 12.28</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-odd"><td><p>29. Recercar cromaticho post il Credo</p></td>
+<td><p>F 12.29</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-even"><td><p>30. Altro Recercar</p></td>
+<td><p>F 12.30</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-odd"><td><p>31. Toccata per l’elevatione</p></td>
+<td><p>F 12.31</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-even"><td><p>32. Recercar con obligo del basso come apare</p></td>
+<td><p>F 12.32</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-odd"><td><p>33. Canzon quarti toni dopo il post Comune</p></td>
+<td><p>F 12.33</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-even"><td><p>34. Toccata avanti la Messa della Madonna</p></td>
+<td><p>F 12.34</p></td>
+<td><p></p></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="messa-della-madonna">
+<h3><a class="toc-backref" href="#id5" role="doc-backlink">Messa della Madonna</a><a class="headerlink" href="#messa-della-madonna" title="Permalink to this heading">#</a></h3>
+<table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>title</p></th>
+<th class="head"><p>catalogue_no</p></th>
+<th class="head"><p>filename</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>35. Kyrie della Madonna</p></td>
+<td><p>F 12.35</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-odd"><td><p>36. Kyrie</p></td>
+<td><p>F 12.36</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-even"><td><p>37. Christe</p></td>
+<td><p>F 12.37</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-odd"><td><p>38. Christe</p></td>
+<td><p>F 12.38</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-even"><td><p>39. Kyrie</p></td>
+<td><p>F 12.39</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-odd"><td><p>40. Kyrie</p></td>
+<td><p>F 12.40</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-even"><td><p>41. Canzon dopo l’Epistola</p></td>
+<td><p>F 12.41</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-odd"><td><p>42. Recercar dopo il Credo</p></td>
+<td><p>F 12.42</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-even"><td><p>43. Toccata avanti il Recercar</p></td>
+<td><p>F 12.43</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-odd"><td><p>44. Recercar con obligo di cantare la quinta parte senza toccarla</p></td>
+<td><p>F 12.44</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-even"><td><p>45. Toccata per l’elevatione</p></td>
+<td><p>F 12.45</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-odd"><td><p>46. Bergamasca</p></td>
+<td><p>F 12.46</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-even"><td><p>47. Capriccio sopra la Girolmeta</p></td>
+<td><p>F 12.47</p></td>
+<td><p></p></td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="source">
+<h2><a class="toc-backref" href="#id6" role="doc-backlink">Source</a><a class="headerlink" href="#source" title="Permalink to this heading">#</a></h2>
+<p>Transcribed by musescore.com user <a class="reference external" href="https://musescore.com/user/11977961">SpaceGuru5</a>.</p>
+<p>Source files as of 2020-12-21:</p>
+<table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>URL</p></th>
+<th class="head"><p>filename</p></th>
+<th class="head"><p>license</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>https://musescore.com/user/11977961/scores/5563581</p></td>
+<td><p>12.34-47_Messa_della_Madonna.mscx</p></td>
+<td><p>None</p></td>
+</tr>
+<tr class="row-odd"><td><p>https://musescore.com/user/11977961/scores/5552416</p></td>
+<td><p>12.18-33_Messa_delli_Apostoli.mscx</p></td>
+<td><p>CC0</p></td>
+</tr>
+<tr class="row-even"><td><p>https://musescore.com/user/11977961/scores/5317011</p></td>
+<td><p>12.01-17_Messa_della_Domenica.mscx</p></td>
+<td><p>CC0</p></td>
+</tr>
+</tbody>
+</table>
+<section id="modifications">
+<h3><a class="toc-backref" href="#id7" role="doc-backlink">Modifications</a><a class="headerlink" href="#modifications" title="Permalink to this heading">#</a></h3>
+<p>The following modifications have already been applied to nos. 3, 4, 5, 8, 11, 14, 25, 30, 33, 37, 40, 41, 46, 47
+(commit 19c98d5d) but are still ToDo for the remaining 34 scores:</p>
+<ul class="simple">
+<li><p>Some of the scores have deprecated MIDI channel information which is also set to “Mute”. It is enough to open the
+Staff Properties and set the instrument to “Organ” to normalize them.</p></li>
+<li><p>A few scores have multiple staves although only two are being used (see metadata.tsv).</p></li>
+<li><p>As it seems, all scores include hidden metronome marks which should be removed. The first mark, on the other hand,
+should remain, but need to be hidden; beat unit and tempo need to be halved.</p></li>
+</ul>
+</section>
+</section>
+<section id="alternative-annotations">
+<h2><a class="toc-backref" href="#id8" role="doc-backlink">Alternative annotations</a><a class="headerlink" href="#alternative-annotations" title="Permalink to this heading">#</a></h2>
+<p>Adrian Nagel has created an alternative version of the annotations for <code class="docutils literal notranslate"><span class="pre">12.16_Toccata_cromaticha_per_l’elevatione</span></code>
+which considers the key to be E (phrygian). This was achieved in an additional copy of the score which is present in
+the Git history as <code class="docutils literal notranslate"><span class="pre">12.16_Toccata_cromaticha_per_l’elevatione_phrygian</span></code> up until commit 0f4bdb9a. The annotation
+file is still present as <code class="docutils literal notranslate"><span class="pre">harmonies/12.16_Toccata_cromaticha_per_l’elevatione_phrygian_phrygian.harmonies.tsv</span></code>.
+However, the columns related to chord tones have been manually removed because the ms3 parser currently supports
+creating them only for major and minor keys (that is, everything related to scale degree 2 would be incorrect).</p>
+</section>
+<section id="overview">
+<h2><a class="toc-backref" href="#id9" role="doc-backlink">Overview</a><a class="headerlink" href="#overview" title="Permalink to this heading">#</a></h2>
+<table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>file_name</p></th>
+<th class="head text-right"><p>measures</p></th>
+<th class="head text-right"><p>labels</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>12.01_Toccata_avanti_la_Messa_della_Domenica</p></td>
+<td class="text-right"><p>8</p></td>
+<td class="text-right"><p>57</p></td>
+</tr>
+<tr class="row-odd"><td><p>12.02_Kyrie_della_domenica</p></td>
+<td class="text-right"><p>13</p></td>
+<td class="text-right"><p>60</p></td>
+</tr>
+<tr class="row-even"><td><p>12.03_Kyrie,_Tema_A</p></td>
+<td class="text-right"><p>17</p></td>
+<td class="text-right"><p>66</p></td>
+</tr>
+<tr class="row-odd"><td><p>12.04_Christe,_Tema_B</p></td>
+<td class="text-right"><p>15</p></td>
+<td class="text-right"><p>47</p></td>
+</tr>
+<tr class="row-even"><td><p>12.05_Christe,_Tema_B,_alio_modo</p></td>
+<td class="text-right"><p>8</p></td>
+<td class="text-right"><p>47</p></td>
+</tr>
+<tr class="row-odd"><td><p>12.06_Christe,_Tema_B,_alio_modo_II</p></td>
+<td class="text-right"><p>21</p></td>
+<td class="text-right"><p>46</p></td>
+</tr>
+<tr class="row-even"><td><p>12.07_Christe,_Tema_B,_alio_modo_III</p></td>
+<td class="text-right"><p>14</p></td>
+<td class="text-right"><p>35</p></td>
+</tr>
+<tr class="row-odd"><td><p>12.08_Kyrie,_Tema_C</p></td>
+<td class="text-right"><p>13</p></td>
+<td class="text-right"><p>54</p></td>
+</tr>
+<tr class="row-even"><td><p>12.09_Kyrie,_Tema_D,_alio_modo_I</p></td>
+<td class="text-right"><p>21</p></td>
+<td class="text-right"><p>63</p></td>
+</tr>
+<tr class="row-odd"><td><p>12.10_Kyrie,_Tema_D,_alio_modo_II</p></td>
+<td class="text-right"><p>18</p></td>
+<td class="text-right"><p>52</p></td>
+</tr>
+<tr class="row-even"><td><p>12.11_Kyrie_ultimo</p></td>
+<td class="text-right"><p>19</p></td>
+<td class="text-right"><p>65</p></td>
+</tr>
+<tr class="row-odd"><td><p>12.12_Kyrie,_Tema_D,_alio_modo_III</p></td>
+<td class="text-right"><p>12</p></td>
+<td class="text-right"><p>84</p></td>
+</tr>
+<tr class="row-even"><td><p>12.13_Kyrie,_Tema_D,_alio_modo_IV</p></td>
+<td class="text-right"><p>21</p></td>
+<td class="text-right"><p>48</p></td>
+</tr>
+<tr class="row-odd"><td><p>12.14_Canzon_dopo_l’Epistola</p></td>
+<td class="text-right"><p>59</p></td>
+<td class="text-right"><p>211</p></td>
+</tr>
+<tr class="row-even"><td><p>12.15_Recercar_dopo_il_Credo</p></td>
+<td class="text-right"><p>47</p></td>
+<td class="text-right"><p>162</p></td>
+</tr>
+<tr class="row-odd"><td><p>12.16_Toccata_cromaticha_per_l’elevatione</p></td>
+<td class="text-right"><p>53</p></td>
+<td class="text-right"><p>199</p></td>
+</tr>
+<tr class="row-even"><td><p>12.17_Canzon_post_il_Comune</p></td>
+<td class="text-right"><p>80</p></td>
+<td class="text-right"><p>213</p></td>
+</tr>
+<tr class="row-odd"><td><p>12.18_Toccata_avanti_la_Messa_delli_Apostoli</p></td>
+<td class="text-right"><p>21</p></td>
+<td class="text-right"><p>74</p></td>
+</tr>
+<tr class="row-even"><td><p>12.19_Kyrie,_Tema_E_1</p></td>
+<td class="text-right"><p>16</p></td>
+<td class="text-right"><p>46</p></td>
+</tr>
+<tr class="row-odd"><td><p>12.20_Kyrie,_Tema_E_2</p></td>
+<td class="text-right"><p>17</p></td>
+<td class="text-right"><p>64</p></td>
+</tr>
+<tr class="row-even"><td><p>12.21_Kyrie,_Tema_E_3</p></td>
+<td class="text-right"><p>10</p></td>
+<td class="text-right"><p>45</p></td>
+</tr>
+<tr class="row-odd"><td><p>12.22_Christe,_Tema_F_1</p></td>
+<td class="text-right"><p>13</p></td>
+<td class="text-right"><p>43</p></td>
+</tr>
+<tr class="row-even"><td><p>12.23_Christe,_Tema_F_2</p></td>
+<td class="text-right"><p>14</p></td>
+<td class="text-right"><p>52</p></td>
+</tr>
+<tr class="row-odd"><td><p>12.24_Kyrie,_Tema_G_1</p></td>
+<td class="text-right"><p>27</p></td>
+<td class="text-right"><p>51</p></td>
+</tr>
+<tr class="row-even"><td><p>12.25_Kyrie,_Tema_G_2</p></td>
+<td class="text-right"><p>20</p></td>
+<td class="text-right"><p>65</p></td>
+</tr>
+<tr class="row-odd"><td><p>12.26_Kyrie,_Tema_H</p></td>
+<td class="text-right"><p>20</p></td>
+<td class="text-right"><p>63</p></td>
+</tr>
+<tr class="row-even"><td><p>12.27_Canzon_dopo_l’Epistola</p></td>
+<td class="text-right"><p>68</p></td>
+<td class="text-right"><p>210</p></td>
+</tr>
+<tr class="row-odd"><td><p>12.28_Toccata_avanti_il_Recercar</p></td>
+<td class="text-right"><p>13</p></td>
+<td class="text-right"><p>60</p></td>
+</tr>
+<tr class="row-even"><td><p>12.29_Recercar_cromaticho_post_il_Credo</p></td>
+<td class="text-right"><p>70</p></td>
+<td class="text-right"><p>248</p></td>
+</tr>
+<tr class="row-odd"><td><p>12.30_Alto_recercar</p></td>
+<td class="text-right"><p>81</p></td>
+<td class="text-right"><p>319</p></td>
+</tr>
+<tr class="row-even"><td><p>12.31_Toccata_per_l’Elevatione</p></td>
+<td class="text-right"><p>33</p></td>
+<td class="text-right"><p>130</p></td>
+</tr>
+<tr class="row-odd"><td><p>12.32_Recercar_con_obligo_del_Basso_come_appare</p></td>
+<td class="text-right"><p>64</p></td>
+<td class="text-right"><p>219</p></td>
+</tr>
+<tr class="row-even"><td><p>12.33_Canzon_quarti_toni_dopo_il_post_Comune</p></td>
+<td class="text-right"><p>58</p></td>
+<td class="text-right"><p>208</p></td>
+</tr>
+<tr class="row-odd"><td><p>12.34_Toccata_avanti_la_Messa_della_Madonna</p></td>
+<td class="text-right"><p>12</p></td>
+<td class="text-right"><p>38</p></td>
+</tr>
+<tr class="row-even"><td><p>12.35_Kyrie,_Tema_I</p></td>
+<td class="text-right"><p>12</p></td>
+<td class="text-right"><p>42</p></td>
+</tr>
+<tr class="row-odd"><td><p>12.36_Kyrie,_Tema_K</p></td>
+<td class="text-right"><p>13</p></td>
+<td class="text-right"><p>46</p></td>
+</tr>
+<tr class="row-even"><td><p>12.37_Christe,_Tema_L</p></td>
+<td class="text-right"><p>14</p></td>
+<td class="text-right"><p>61</p></td>
+</tr>
+<tr class="row-odd"><td><p>12.38_Christe,_Tema_M</p></td>
+<td class="text-right"><p>12</p></td>
+<td class="text-right"><p>40</p></td>
+</tr>
+<tr class="row-even"><td><p>12.39_Kyrie,_Tema_N</p></td>
+<td class="text-right"><p>12</p></td>
+<td class="text-right"><p>34</p></td>
+</tr>
+<tr class="row-odd"><td><p>12.40_Kyrie,_Tema_O</p></td>
+<td class="text-right"><p>9</p></td>
+<td class="text-right"><p>53</p></td>
+</tr>
+<tr class="row-even"><td><p>12.41_Canzon_dopo_l’Epistola</p></td>
+<td class="text-right"><p>49</p></td>
+<td class="text-right"><p>126</p></td>
+</tr>
+<tr class="row-odd"><td><p>12.42_Recercar_dopo_il_Credo</p></td>
+<td class="text-right"><p>46</p></td>
+<td class="text-right"><p>156</p></td>
+</tr>
+<tr class="row-even"><td><p>12.43_Toccata_avanti_il_Recercar</p></td>
+<td class="text-right"><p>14</p></td>
+<td class="text-right"><p>38</p></td>
+</tr>
+<tr class="row-odd"><td><p>12.44_Recercar_con_obligo_di_cantare_la_quinta_parte_non_senza_toccarla</p></td>
+<td class="text-right"><p>59</p></td>
+<td class="text-right"><p>202</p></td>
+</tr>
+<tr class="row-even"><td><p>12.45_Toccata_per_l’Elevatione</p></td>
+<td class="text-right"><p>24</p></td>
+<td class="text-right"><p>85</p></td>
+</tr>
+<tr class="row-odd"><td><p>12.46_Bergamasca</p></td>
+<td class="text-right"><p>124</p></td>
+<td class="text-right"><p>415</p></td>
+</tr>
+<tr class="row-even"><td><p>12.47_Capriccio_sopra_la_Girolmeta</p></td>
+<td class="text-right"><p>102</p></td>
+<td class="text-right"><p>375</p></td>
+</tr>
+</tbody>
+</table>
+<p><em>Overview table automatically updated using <a class="reference external" href="https://ms3.readthedocs.io/">ms3</a>.</em></p>
+</section>
+</section>
+<div class="toctree-wrapper compound">
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Further information:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="introduction.html">How to use</a></li>
+<li class="toctree-l1"><a class="reference internal" href="analyses.html">Analyses</a></li>
+</ul>
+</div>
+
+
+                </article>
+              
+              
+              
+                <footer class="bd-footer-article">
+                  
+<div class="footer-article-items footer-article__inner">
+  
+    <div class="footer-article-item"><!-- Previous / next buttons -->
+<div class="prev-next-area">
+    <a class="right-next"
+       href="introduction.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">How to use</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div></div>
+  
+</div>
+
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> On this page
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#girolamo-frescobaldi-1583-1643-fiori-musicali-op-12-1635">Girolamo Frescobaldi (1583-1643) - Fiori Musicali, op. 12 (1635)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#messa-della-domenica">Messa della Domenica</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#messa-delli-apostoli">Messa delli Apostoli</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#messa-della-madonna">Messa della Madonna</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#source">Source</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#modifications">Modifications</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#alternative-annotations">Alternative annotations</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#overview">Overview</a></li>
+</ul>
+  </nav></div>
+
+  <div class="sidebar-secondary-item">
+  <div class="tocsection sourcelink">
+    <a href="_sources/index.rst.txt">
+      <i class="fa-solid fa-file-lines"></i> Show Source
+    </a>
+  </div>
+</div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+          </footer>
+        
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=e353d410970836974a52"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52"></script>
+
+  <footer class="bd-footer">
+<div class="bd-footer__inner bd-page-width">
+  
+    <div class="footer-items__start">
+      
+        <div class="footer-item">
+  <p class="copyright">
+    
+      © Copyright 2023, Johannes Hentschel.
+      <br/>
+    
+  </p>
+</div>
+      
+        <div class="footer-item">
+  <p class="sphinx-version">
+    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.3.0.
+    <br/>
+  </p>
+</div>
+      
+    </div>
+  
+  
+    <div class="footer-items__end">
+      
+        <div class="footer-item"><p class="theme-version">
+  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.13.3.
+</p></div>
+      
+    </div>
+  
+</div>
+
+  </footer>
+  </body>
+</html>
