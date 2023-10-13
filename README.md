@@ -2,6 +2,8 @@
 
 ## Girolamo Frescobaldi (1583-1643) - Fiori Musicali, op. 12 (1635)
 
+This corpus of annotated [MuseScore](https://musescore.org) files has been created within the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs the [DCML harmony annotation standard](https://github.com/DCMLab/standards). It represents the three organ masses and two capriccios of Fiori musicali, the composer Frescobaldi's magnum opus and only principally liturgical work, written during his tenure as the organist of St. Peter's Basilica. These pieces use Gregorian chants and folk melodies as the basis for complex contrapuntal settings. The annotation standard produced distinctive results when applied to this late-Renaissance/early-Baroque material, as the pieces in this set make extensive use of modal minor (lacking a #7 leading tone) and generally lack functional cadences. Several movements, such as `12.31_Toccata_per_l'Elevatione`, employ an experimental variation of the standard to accommodate the Phrygian mode.
+
 ### Messa della Domenica
 
 | title                                                             | catalogue_no | filename                                          |
