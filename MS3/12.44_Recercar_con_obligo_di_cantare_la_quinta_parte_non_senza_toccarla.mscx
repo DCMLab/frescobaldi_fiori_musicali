@@ -202,12 +202,12 @@
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
-      <trackName>Pipe Organ</trackName>
-      <Instrument id="pipe-organ">
+      <trackName>Organ</trackName>
+      <Instrument id="organ">
         <longName>Organ</longName>
         <shortName>Org.</shortName>
-        <trackName>Pipe Organ</trackName>
-        <instrumentId>keyboard.organ.pipe</instrumentId>
+        <trackName>Organ</trackName>
+        <instrumentId>keyboard.organ</instrumentId>
         <clef staff="2">F</clef>
         <clef staff="3">F8vb</clef>
         <Articulation>
@@ -239,22 +239,13 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
-          <program value="20"/>
+          <controller ctrl="32" value="17"/>
+          <program value="19"/>
           <synti>Fluid</synti>
           <mute>1</mute>
           <midiPort>0</midiPort>
           <midiChannel>1</midiChannel>
-          </Channel>
-        <Channel name="harmony">
-          <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="17"/>
-          <program value="0"/>
-          <synti>Fluid</synti>
-          <mute>1</mute>
-          <midiPort>0</midiPort>
-          <midiChannel>3</midiChannel>
           </Channel>
         </Instrument>
       </Part>
