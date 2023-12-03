@@ -167,10 +167,8 @@
     <metaTag name="P86 (composer)">Q209212</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1635</metaTag>
-    <metaTag name="composed_end2">1635</metaTag>
     <metaTag name="composed_source">Bärenreiter Verlag (https://imslp.org/wiki/Special:ReverseLookup/39823)</metaTag>
     <metaTag name="composed_start">1635</metaTag>
-    <metaTag name="composed_start2">1635</metaTag>
     <metaTag name="composer">Girolamo Frescobaldi</metaTag>
     <metaTag name="copyright">1635</metaTag>
     <metaTag name="creationDate">2018-11-22</metaTag>
@@ -183,7 +181,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/39823</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">https://musescore.com/user/11977961/scores/5552416</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="typesetter">https://musescore.com/user/11977961</metaTag>
     <metaTag name="viaf">https://viaf.org/viaf/179864547/</metaTag>
