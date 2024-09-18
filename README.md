@@ -1,6 +1,32 @@
-# README
+![Version](https://img.shields.io/github/v/release/DCMLab/frescobaldi_fiori_musicali?display_name=tag)
+[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://zenodo.org/badge/latestdoi/{{ zenodo_badge_id }})
+![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/frescobaldi_fiori_musicali)
+![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
 
-## Girolamo Frescobaldi (1583-1643) - Fiori Musicali, op. 12 (1635)
+
+This is a README file for a data repository originating from the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora)
+and serves as welcome page for both 
+
+* the GitHub repo [https://github.com/DCMLab/frescobaldi_fiori_musicali](https://github.com/DCMLab/frescobaldi_fiori_musicali) and the corresponding
+* documentation page [https://dcmlab.github.io/frescobaldi_fiori_musicali](https://dcmlab.github.io/frescobaldi_fiori_musicali)
+
+For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/frescobaldi_fiori_musicali/introduction).
+
+# Girolamo Frescobaldi (1583-1643) – Fiori Musicali, op. 12 (1635)
+
+Frescobaldi, sometimes organist at St. Peter's Basilica in Rome, composed Fiori Musicali near the beginning of the last of these appointments, under the patronage of Pope Urban VIII. These three organ masses, using borrowed chant melodies in the Renaissance practice, are fairly early examples of a genre that would become much more common in the Baroque, and were regarded for centuries afterward as examples of technical perfection in composition. Johann Joseph Fux incorporated portions of this work into his Gradus ad Parnassum as examples of supreme contrapuntal perfection. Our annotations show the intricacy of harmonic successions created by Frescobaldi's elegant modal counterpoint.
+
+## Version history
+
+See the [GitHub releases](https://github.com/DCMLab/frescobaldi_fiori_musicali/releases).
+
+## Questions, Suggestions, Corrections, Bug Reports
+
+Please [create an issue](https://github.com/DCMLab/frescobaldi_fiori_musicali/issues) and/or feel free to fork and submit pull requests.
+
+## License
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
 This corpus of annotated [MuseScore](https://musescore.org) files has been created within the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs the [DCML harmony annotation standard](https://github.com/DCMLab/standards). It represents the three organ masses and two capriccios of Fiori musicali, the composer Frescobaldi's magnum opus and only principally liturgical work, written during his tenure as the organist of St. Peter's Basilica. These pieces use Gregorian chants and folk melodies as the basis for complex contrapuntal settings. The annotation standard produced distinctive results when applied to this late-Renaissance/early-Baroque material, as the pieces in this set make extensive use of modal minor (lacking a #7 leading tone) and generally lack functional cadences. Several movements, such as `12.31_Toccata_per_l'Elevatione`, employ an experimental variation of the standard to accommodate the Phrygian mode.
 
