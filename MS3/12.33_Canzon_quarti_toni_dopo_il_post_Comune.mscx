@@ -243,7 +243,6 @@
           <controller ctrl="32" value="17"/>
           <program value="20"/>
           <synti>Fluid</synti>
-          <mute>1</mute>
           <midiPort>0</midiPort>
           <midiChannel>0</midiChannel>
           </Channel>
@@ -252,7 +251,6 @@
           <controller ctrl="32" value="17"/>
           <program value="0"/>
           <synti>Fluid</synti>
-          <mute>1</mute>
           <midiPort>0</midiPort>
           <midiChannel>2</midiChannel>
           </Channel>
@@ -2178,7 +2176,7 @@
             <name>V7/iv</name>
             </Harmony>
           <location>
-            <fractions>1/1920</fractions>
+            <fractions>1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>

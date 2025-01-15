@@ -237,13 +237,22 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="19"/>
           <synti>Fluid</synti>
           <mute>1</mute>
           <midiPort>0</midiPort>
           <midiChannel>1</midiChannel>
+          </Channel>
+        <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="0"/>
+          <synti>Fluid</synti>
+          <mute>1</mute>
+          <midiPort>0</midiPort>
+          <midiChannel>0</midiChannel>
           </Channel>
         </Instrument>
       </Part>
@@ -296,14 +305,7 @@
             <name>i</name>
             </Harmony>
           <location>
-            <fractions>1/1920</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
-          <location>
-            <fractions>959/1920</fractions>
+            <fractions>1/2</fractions>
             </location>
           <Chord>
             <durationType>whole</durationType>
@@ -312,6 +314,13 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/2</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
           </voice>
         <voice>
           <Rest>
@@ -1105,27 +1114,21 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1919/1920</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio6(2)</name>
             </Harmony>
+          <Rest>
+            <offset x="0" y="1"/>
+            <durationType>half</durationType>
+            </Rest>
           <location>
-            <fractions>1/4</fractions>
+            <fractions>-1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V64</name>
             </Harmony>
-          <location>
-            <fractions>1439/1920</fractions>
-            </location>
-          <Rest>
-            <offset x="0" y="1"/>
-            <durationType>half</durationType>
-            </Rest>
           </voice>
         <voice>
           <Rest>

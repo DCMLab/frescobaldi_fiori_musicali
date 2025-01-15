@@ -348,14 +348,14 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-1/960</fractions>
+            <fractions>-2/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
           <location>
-            <fractions>1/1920</fractions>
+            <fractions>1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -462,14 +462,14 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-1/960</fractions>
+            <fractions>-2/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
           <location>
-            <fractions>1/1920</fractions>
+            <fractions>1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -523,7 +523,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-1/960</fractions>
+            <fractions>-2/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -624,14 +624,14 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-1/960</fractions>
+            <fractions>-2/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VII6</name>
             </Harmony>
           <location>
-            <fractions>1/1920</fractions>
+            <fractions>1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -842,14 +842,14 @@
             <duration>3/1</duration>
             </Rest>
           <location>
-            <fractions>-1/960</fractions>
+            <fractions>-2/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv</name>
             </Harmony>
           <location>
-            <fractions>1/1920</fractions>
+            <fractions>1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -1442,14 +1442,14 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-1/960</fractions>
+            <fractions>-2/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III-i6</name>
             </Harmony>
           <location>
-            <fractions>1/1920</fractions>
+            <fractions>1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -1649,14 +1649,7 @@
             <text><sym>metNoteWhole</sym> = 50</text>
             </Tempo>
           <location>
-            <fractions>1/1920</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
-          <location>
-            <fractions>1/1920</fractions>
+            <fractions>1/960</fractions>
             </location>
           <Tempo>
             <tempo>2.6666699999999999</tempo>
@@ -1665,7 +1658,14 @@
             <text><sym>metNoteWhole</sym> = 40</text>
             </Tempo>
           <location>
-            <fractions>1/1</fractions>
+            <fractions>959/960</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
+          <location>
+            <fractions>1/960</fractions>
             </location>
           <BarLine>
             <visible>0</visible>
