@@ -56,43 +56,43 @@ These organ scores were created by MuseScore engraver [Gil Martinez](https://mus
 
 ### Messa delli Apostoli
 
-| title                                                             | catalogue_no | filename                                          |
-|-------------------------------------------------------------------|--------------|---------------------------------------------------|
-| 18. Toccata avanti la Messa delli Apostoli                        | F 12.18      |                                                   |
-| 19. Kyrie delli Apostoli                                          | F 12.19      |                                                   |
-| 20. Kyrie                                                         | F 12.20      |                                                   |
-| 21. Kyrie                                                         | F 12.21      |                                                   |
-| 22. Christe                                                       | F 12.22      |                                                   |
-| 23. Christe                                                       | F 12.23      |                                                   |
-| 24. Kyrie                                                         | F 12.24      |                                                   |
-| 25. Kyrie                                                         | F 12.25      |                                                   |
-| 26. Kyrie                                                         | F 12.26      |                                                   |
-| 27. Canzon dopo l'Epistola                                        | F 12.27      |                                                   |
-| 28. Toccata avanti il Recercar                                    | F 12.28      |                                                   |
-| 29. Recercar cromaticho post il Credo                             | F 12.29      |                                                   |
-| 30. Altro Recercar                                                | F 12.30      |                                                   |
-| 31. Toccata per l'elevatione                                      | F 12.31      |                                                   |
-| 32. Recercar con obligo del basso come apare                      | F 12.32      |                                                   |
-| 33. Canzon quarti toni dopo il post Comune                        | F 12.33      |                                                   |
-| 34. Toccata avanti la Messa della Madonna                         | F 12.34      |                                                   |
+| title                                        | catalogue_no | filename                                        |
+|----------------------------------------------|--------------|-------------------------------------------------|
+| 18. Toccata avanti la Messa delli Apostoli   | F 12.18      | 12.18_Toccata_avanti_la_Messa_delli_Apostoli    |
+| 19. Kyrie delli Apostoli                     | F 12.19      | 12.19_Kyrie,_Tema_E_1                           |
+| 20. Kyrie                                    | F 12.20      | 12.20_Kyrie,_Tema_E_2                           |
+| 21. Kyrie                                    | F 12.21      | 12.21_Kyrie,_Tema_E_3                           |
+| 22. Christe                                  | F 12.22      | 12.22_Christe,_Tema_F_1                         |
+| 23. Christe                                  | F 12.23      | 12.23_Christe,_Tema_F_2                         |
+| 24. Kyrie                                    | F 12.24      | 12.24_Kyrie,_Tema_G_1                           |
+| 25. Kyrie                                    | F 12.25      | 12.25_Kyrie,_Tema_G_2                           |
+| 26. Kyrie                                    | F 12.26      | 12.26_Kyrie,_Tema_H                             |
+| 27. Canzon dopo l'Epistola                   | F 12.27      | 12.27_Canzon_dopo_l'Epistola                    |
+| 28. Toccata avanti il Recercar               | F 12.28      | 12.28_Toccata_avanti_il_Recercar                |
+| 29. Recercar cromaticho post il Credo        | F 12.29      | 12.29_Recercar_cromaticho_post_il_Credo         |
+| 30. Altro Recercar                           | F 12.30      | 12.30_Alto_recercar                             |
+| 31. Toccata per l'elevatione                 | F 12.31      | 12.31_Toccata_per_l'Elevatione                  |
+| 32. Recercar con obligo del basso come apare | F 12.32      | 12.32_Recercar_con_obligo_del_Basso_come_appare |
+| 33. Canzon quarti toni dopo il post Comune   | F 12.33      | 12.33_Canzon_quarti_toni_dopo_il_post_Comune    |
+| 34. Toccata avanti la Messa della Madonna    | F 12.34      | 12.34_Toccata_avanti_la_Messa_della_Madonna     |
 
 ### Messa della Madonna
 
-| title                                                             | catalogue_no | filename                                          |
-|-------------------------------------------------------------------|--------------|---------------------------------------------------|
-| 35. Kyrie della Madonna                                           | F 12.35      |                                                   |
-| 36. Kyrie                                                         | F 12.36      |                                                   |
-| 37. Christe                                                       | F 12.37      |                                                   |
-| 38. Christe                                                       | F 12.38      |                                                   |
-| 39. Kyrie                                                         | F 12.39      |                                                   |
-| 40. Kyrie                                                         | F 12.40      |                                                   |
-| 41. Canzon dopo l’Epistola                                        | F 12.41      |                                                   |
-| 42. Recercar dopo il Credo                                        | F 12.42      |                                                   |
-| 43. Toccata avanti il Recercar                                    | F 12.43      |                                                   |
-| 44. Recercar con obligo di cantare la quinta parte senza toccarla | F 12.44      |                                                   |
-| 45. Toccata per l’elevatione                                      | F 12.45      |                                                   |
-| 46. Bergamasca                                                    | F 12.46      |                                                   |
-| 47. Capriccio sopra la Girolmeta                                  | F 12.47      |                                                   |
+| title                                                             | catalogue_no | filename                                                                |
+|-------------------------------------------------------------------|--------------|-------------------------------------------------------------------------|
+| 35. Kyrie della Madonna                                           | F 12.35      | 12.35_Kyrie,_Tema_I                                                     |
+| 36. Kyrie                                                         | F 12.36      | 12.36_Kyrie,_Tema_K                                                     |
+| 37. Christe                                                       | F 12.37      | 12.37_Christe,_Tema_L                                                   |
+| 38. Christe                                                       | F 12.38      | 12.38_Christe,_Tema_M                                                   |
+| 39. Kyrie                                                         | F 12.39      | 12.39_Kyrie,_Tema_N                                                     |
+| 40. Kyrie                                                         | F 12.40      | 12.40_Kyrie,_Tema_O                                                     |
+| 41. Canzon dopo l’Epistola                                        | F 12.41      | 12.41_Canzon_dopo_l'Epistola                                            |
+| 42. Recercar dopo il Credo                                        | F 12.42      | 12.42_Recercar_dopo_il_Credo                                            |
+| 43. Toccata avanti il Recercar                                    | F 12.43      | 12.43_Toccata_avanti_il_Recercar                                        |
+| 44. Recercar con obligo di cantare la quinta parte senza toccarla | F 12.44      | 12.44_Recercar_con_obligo_di_cantare_la_quinta_parte_non_senza_toccarla |
+| 45. Toccata per l’elevatione                                      | F 12.45      | 12.45_Toccata_per_l'Elevatione                                          |
+| 46. Bergamasca                                                    | F 12.46      | 12.46_Bergamasca                                                        |
+| 47. Capriccio sopra la Girolmeta                                  | F 12.47      | 12.47_Capriccio_sopra_la_Girolmeta                                      |
 
 ## Source
 
