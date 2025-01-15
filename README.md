@@ -111,9 +111,20 @@ Source files as of 2020-12-21:
 Adrian Nagel has created an alternative version of the annotations for `12.16_Toccata_cromaticha_per_l’elevatione`
 which considers the key to be E (phrygian). This was achieved in an additional copy of the score which is present in 
 the Git history as `12.16_Toccata_cromaticha_per_l’elevatione_phrygian` up until commit 0f4bdb9a. The annotation 
-file is still present as `harmonies/12.16_Toccata_cromaticha_per_l’elevatione_phrygian_phrygian.harmonies.tsv`.
+file is still present as `harmonies/12.16_Toccata_cromaticha_per_l’elevatione_phrygian.harmonies.tsv`.
 However, the columns related to chord tones have been manually removed because the ms3 parser currently supports 
 creating them only for major and minor keys (that is, everything related to scale degree 2 would be incorrect).
+
+**To be fixed:** Currently, three more movements have the experimental global key `e.phryg.`:
+
+* 12.31_Toccata_per_l'Elevatione
+* 12.33_Canzon_quarti_toni_dopo_il_post_Comune
+* 12.45_Toccata_per_l'Elevatione
+
+The same procedure should be applied:
+
+1. Create a copy of the harmonies table with the suffix `_phrygian`.
+2. Re-annotate in minor mode.
 
 ## Overview
 |                               file_name                               |measures|labels|
