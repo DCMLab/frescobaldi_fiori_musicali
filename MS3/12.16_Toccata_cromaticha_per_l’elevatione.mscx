@@ -38,6 +38,7 @@
       <pedalLineWidth>0.11</pedalLineWidth>
       <pedalFontFace>Edwin</pedalFontFace>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
       <chordSymbolAFontSize>11</chordSymbolAFontSize>
       <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
@@ -155,27 +156,34 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>0</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q209212</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1635</metaTag>
+    <metaTag name="composed_source">Bärenreiter Verlag (https://imslp.org/wiki/Special:ReverseLookup/39823)</metaTag>
     <metaTag name="composed_start">1635</metaTag>
     <metaTag name="composer">Girolamo Frescobaldi</metaTag>
     <metaTag name="copyright">1635</metaTag>
     <metaTag name="creationDate">2019-05-03</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Fiori_Musicali,_Op.12_(Frescobaldi,_Girolamo)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">16</metaTag>
+    <metaTag name="movementTitle">Toccata cromaticha per l’elevatione</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/a5e738c7-3ecd-4fd6-85f7-6dc49b24f79d</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/39823</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">https://musescore.com/user/11977961/scores/5563581</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
+    <metaTag name="typesetter">https://musescore.com/user/11977961</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/179864547/</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q3072749</metaTag>
+    <metaTag name="workNumber">Op.12</metaTag>
     <metaTag name="workTitle">La Messa della Domenica</metaTag>
     <Part>
       <Staff id="1">
@@ -242,6 +250,25 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>17.7292</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>La Messa della Domenica, 16: 
+Toccata cromaticha per l’elevatione</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <offset x="0" y="17.6688"/>
+          <text>from <i>Fiori Musicali</i></text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <offset x="0" y="-3.69239"/>
+          <text>Girolamo Frescobaldi</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <TimeSig>
@@ -251,13 +278,9 @@
           <Tempo>
             <tempo>2.23333</tempo>
             <followText>1</followText>
-            <offset x="1.00482" y="-11.175"/>
+            <offset x="1.00482" y="-6.34426"/>
             <text><sym>metNoteHalfUp</sym> = 67</text>
             </Tempo>
-          <StaffText>
-            <offset x="-3.31592" y="-10.3304"/>
-            <text>Toccata cromaticha per l'Elevatione</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>a.v{</name>
@@ -270,7 +293,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -4763,9 +4786,6 @@
             </Harmony>
           <location>
             <fractions>1/2</fractions>
-            </location>
-          <location>
-            <fractions>0</fractions>
             </location>
           <BarLine>
             <visible>0</visible>

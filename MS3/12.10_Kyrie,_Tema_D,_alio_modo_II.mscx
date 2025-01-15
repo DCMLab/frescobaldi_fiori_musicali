@@ -38,6 +38,7 @@
       <pedalLineWidth>0.11</pedalLineWidth>
       <pedalFontFace>Edwin</pedalFontFace>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
       <chordSymbolAFontSize>11</chordSymbolAFontSize>
       <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
@@ -157,27 +158,34 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>0</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q209212</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1635</metaTag>
+    <metaTag name="composed_source">Bärenreiter Verlag (https://imslp.org/wiki/Special:ReverseLookup/39823)</metaTag>
     <metaTag name="composed_start">1635</metaTag>
     <metaTag name="composer">Girolamo Frescobaldi</metaTag>
     <metaTag name="copyright">1635</metaTag>
     <metaTag name="creationDate">2019-05-03</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Fiori_Musicali,_Op.12_(Frescobaldi,_Girolamo)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">10</metaTag>
+    <metaTag name="movementTitle">Kyrie, Tema D, alio modo II</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/70dd9b1d-0fef-4884-9c96-56a1695f6e35</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/39823</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">https://musescore.com/user/11977961/scores/5563581</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
+    <metaTag name="typesetter">https://musescore.com/user/11977961</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/179864547/</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q3072749</metaTag>
+    <metaTag name="workNumber">Op.12</metaTag>
     <metaTag name="workTitle">La Messa della Domenica</metaTag>
     <Part>
       <Staff id="1">
@@ -244,6 +252,25 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>16.8584</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>La Messa della Domenica, 10: 
+Kyrie, Tema D, alio modo II</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <offset x="0" y="17.2319"/>
+          <text>from <i>Fiori Musicali</i></text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <offset x="0" y="-3.52778"/>
+          <text>Girolamo Frescobaldi</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <TimeSig>
@@ -253,7 +280,7 @@
           <Tempo>
             <tempo>3</tempo>
             <followText>1</followText>
-            <offset x="0.253744" y="-9.74488"/>
+            <offset x="0.253744" y="-6.52542"/>
             <text><sym>metNoteHalfUp</sym> = 90</text>
             </Tempo>
           <Harmony>
@@ -266,7 +293,7 @@
             <duration>8/4</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -281,10 +308,6 @@
             </Harmony>
           </voice>
         <voice>
-          <StaffText>
-            <offset x="-3.93304" y="-8.82114"/>
-            <text>Kyrie, Tema D, alio modo II</text>
-            </StaffText>
           <Rest>
             <durationType>half</durationType>
             </Rest>
@@ -1331,7 +1354,7 @@
             <duration>8/4</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -1711,6 +1734,12 @@
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
+          <Tempo>
+            <tempo>0.83333299999999999</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteQuarterUp</sym> = 50</text>
+            </Tempo>
           <Chord>
             <durationType>breve</durationType>
             <Note>
@@ -1734,18 +1763,6 @@
             </Harmony>
           <location>
             <fractions>1/2</fractions>
-            </location>
-          <location>
-            <fractions>-1</fractions>
-            </location>
-          <Tempo>
-            <tempo>0.83333299999999999</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text><sym>metNoteQuarterUp</sym> = 50</text>
-            </Tempo>
-          <location>
-            <fractions>1/1</fractions>
             </location>
           <BarLine>
             <subtype>end</subtype>
