@@ -787,6 +787,12 @@ Toccata avanti la Messa della Domenica</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>v(b13)/v</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v(6)/v</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -1996,7 +2002,6 @@ Toccata avanti la Messa della Domenica</text>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
