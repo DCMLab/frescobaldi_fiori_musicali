@@ -9,3 +9,6 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 14, '1/2', 'vi') ms3.Parse.fre
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 40, '1', 'I') ms3.Parse.frescobaldi_fiori_musicali.1217_Canzon_post_il_Comune
 	The label 'I' in m. 40, onset 1 (MC 40, onset 1) is warranted
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 9, '3/2', 'i6') ms3.Parse.frescobaldi_fiori_musicali.1221_Kyrie,_Tema_E_3
+	The label 'i6' in m. 9, onset 3/2 (MC 9, onset 3/2) is correct
