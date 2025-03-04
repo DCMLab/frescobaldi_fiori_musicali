@@ -6,3 +6,6 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 4, '1/2', 'III6') ms3.Parse.fr
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 14, '1/2', 'vi') ms3.Parse.frescobaldi_fiori_musicali.1217_Canzon_post_il_Comune
 	The label 'vi' in m. 14, onset 1/2 (MC 14, onset 1/2) is plausible
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 40, '1', 'I') ms3.Parse.frescobaldi_fiori_musicali.1217_Canzon_post_il_Comune
+	The label 'I' in m. 40, onset 1 (MC 40, onset 1) is warranted
