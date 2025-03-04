@@ -293,7 +293,7 @@
             </Tempo>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>d.i</name>
+            <name>d.i{</name>
             </Harmony>
           <Rest>
             <offset x="0" y="2"/>
