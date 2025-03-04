@@ -288,6 +288,7 @@
           <Tempo>
             <tempo>1.5</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <offset x="0.537717" y="-5.48019"/>
             <text><sym>metNoteQuarterUp</sym> = 90</text>
             </Tempo>
@@ -1644,6 +1645,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>v</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -3327,7 +3334,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>61</pitch>
               <tpc>21</tpc>
               </Note>
