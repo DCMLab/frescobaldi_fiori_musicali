@@ -1,3 +1,5 @@
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 14, '1', 'VII6') ms3.Parse.frescobaldi_fiori_musicali.1206_Christe,_Tema_B,_alio_modo_II
 	The label 'VII6' in m. 14, onset 1 (MC 14, onset 1) is plausible as a follow up for the preceding label.
 
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 4, '1/2', 'III6') ms3.Parse.frescobaldi_fiori_musicali.1209_Kyrie,_Tema_D,_alio_modo_I
+	The label 'III6' in m. 4, onset 1/2 (MC 4, onset 1/2) is plausible
