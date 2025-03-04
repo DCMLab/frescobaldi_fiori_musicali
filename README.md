@@ -28,6 +28,9 @@ Please [create an issue](https://github.com/DCMLab/frescobaldi_fiori_musicali/is
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
+![cc-by-nc-sa-image](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
+
+
 This corpus of annotated [MuseScore](https://musescore.org) files has been created within the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs the [DCML harmony annotation standard](https://github.com/DCMLab/standards). It represents the three organ masses and two capriccios of Fiori musicali, the composer Frescobaldi's magnum opus and only principally liturgical work, written during his tenure as the organist of St. Peter's Basilica. These pieces use Gregorian chants and folk melodies as the basis for complex contrapuntal settings. The annotation standard produced distinctive results when applied to this late-Renaissance/early-Baroque material, as the pieces in this set make extensive use of modal minor (lacking a #7 leading tone) and generally lack functional cadences. Several movements, such as `12.31_Toccata_per_l'Elevatione`, employ an experimental variation of the standard to accommodate the Phrygian mode.
 
 These organ scores were created by MuseScore engraver [Gil Martinez](https://musescore.com/user/11977961) and correspond most closely to the 1955 Bärenreiter editions. Small instrumentation edits included in the scores to optimize playback were removed for purposes of this corpus.
