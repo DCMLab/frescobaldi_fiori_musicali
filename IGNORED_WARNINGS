@@ -12,3 +12,6 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 40, '1', 'I') ms3.Parse.fresco
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 9, '3/2', 'i6') ms3.Parse.frescobaldi_fiori_musicali.1221_Kyrie,_Tema_E_3
 	The label 'i6' in m. 9, onset 3/2 (MC 9, onset 3/2) is correct
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 11, '1/2', 'iv6') ms3.Parse.frescobaldi_fiori_musicali.1223_Christe,_Tema_F_2
+	The label 'iv6' in m. 11, onset 1/2 (MC 11, onset 1/2) is the resolution chord to the previous label of the annotator.
