@@ -286,6 +286,7 @@
           <Tempo>
             <tempo>1.5</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <minDistance>0.336181</minDistance>
             <offset x="1.01498" y="-5.05743"/>
             <text><sym>metNoteQuarterUp</sym> = 90</text>
