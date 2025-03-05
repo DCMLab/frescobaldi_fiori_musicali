@@ -288,6 +288,7 @@
           <Tempo>
             <tempo>3</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <minDistance>-0.0300156</minDistance>
             <offset x="0.507489" y="-4.68873"/>
             <text><sym>metNoteHalfUp</sym> = 90</text>
@@ -3126,11 +3127,16 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VIM7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VIIM7</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -3185,7 +3191,6 @@
           <Chord>
             <durationType>whole</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -7852,7 +7857,6 @@
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -7884,7 +7888,6 @@
           <Chord>
             <durationType>whole</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
