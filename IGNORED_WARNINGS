@@ -28,3 +28,6 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 36, '1/4', 'viio6(2)/V') ms3.P
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 17, '0', 'i{') ms3.Parse.frescobaldi_fiori_musicali.1233_Canzon_quarti_toni_dopo_il_post_Comune
 	The label 'i{' in m. 17, onset 0 (MC 17, onset 0) is warranted as this is a monophonic passage beginning on the tonic
 
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 2, '3/2', 'III6') ms3.Parse.frescobaldi_fiori_musicali.1237_Christe,_Tema_L
+	The label 'III6' in m. 2, onset 3/2 (MC 2, onset 3/2) is plausible
+
