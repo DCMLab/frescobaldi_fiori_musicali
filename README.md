@@ -173,7 +173,7 @@ The same procedure should be applied:
 |12.42_Recercar_dopo_il_Credo                                           |      46|   156|
 |12.43_Toccata_avanti_il_Recercar                                       |      14|    38|
 |12.44_Recercar_con_obligo_di_cantare_la_quinta_parte_non_senza_toccarla|      59|   202|
-|12.45_Toccata_per_l'Elevatione                                         |      24|    85|
+|12.45_Toccata_per_l'Elevatione                                         |      24|    86|
 |12.46_Bergamasca                                                       |     124|   415|
 |12.47_Capriccio_sopra_la_Girolmeta                                     |     102|   375|
 
