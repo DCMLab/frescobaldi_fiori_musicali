@@ -18,3 +18,6 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 11, '1/2', 'iv6') ms3.Parse.fr
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 15, '1/2', 'V(4)/vi') ms3.Parse.frescobaldi_fiori_musicali.1227_Canzon_dopo_l'Epistola
 	The label 'V(4)/vi' in m. 15, onset 1/2 (MC 15, onset 1/2) is part of a progression as decided on by the annotator
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 46, '3/2', 'i6') ms3.Parse.frescobaldi_fiori_musicali.1229_Recercar_cromaticho_post_il_Credo
+	The label 'i6' in m. 46, onset 3/2 (MC 46, onset 3/2) is correct
