@@ -7288,7 +7288,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi</name>
+            <name>vi{</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
