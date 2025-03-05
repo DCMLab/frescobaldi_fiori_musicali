@@ -745,7 +745,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iio6</name>
+            <name>iio6</name>
             </Harmony>
           </voice>
         <voice>
@@ -1570,7 +1570,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>II-vii6</name>
+            <name>bII-vii6</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -2144,7 +2144,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iio6</name>
+            <name>iio6</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -2343,7 +2343,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ii64</name>
+            <name>ii64</name>
             </Harmony>
           <Rest>
             <offset x="0" y="1"/>
