@@ -161,7 +161,7 @@ The same procedure should be applied:
 |12.30_Alto_recercar                                                    |      81|   319|
 |12.31_Toccata_per_l'Elevatione                                         |      33|   132|
 |12.32_Recercar_con_obligo_del_Basso_come_appare                        |      64|   219|
-|12.33_Canzon_quarti_toni_dopo_il_post_Comune                           |      58|   208|
+|12.33_Canzon_quarti_toni_dopo_il_post_Comune                           |      58|   209|
 |12.34_Toccata_avanti_la_Messa_della_Madonna                            |      12|    38|
 |12.35_Kyrie,_Tema_I                                                    |      12|    42|
 |12.36_Kyrie,_Tema_K                                                    |      13|    46|
