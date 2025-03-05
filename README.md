@@ -159,7 +159,7 @@ The same procedure should be applied:
 |12.28_Toccata_avanti_il_Recercar                                       |      13|    60|
 |12.29_Recercar_cromaticho_post_il_Credo                                |      70|   248|
 |12.30_Alto_recercar                                                    |      81|   319|
-|12.31_Toccata_per_l'Elevatione                                         |      33|   130|
+|12.31_Toccata_per_l'Elevatione                                         |      33|   132|
 |12.32_Recercar_con_obligo_del_Basso_come_appare                        |      64|   219|
 |12.33_Canzon_quarti_toni_dopo_il_post_Comune                           |      58|   208|
 |12.34_Toccata_avanti_la_Messa_della_Madonna                            |      12|    38|

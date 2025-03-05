@@ -243,7 +243,6 @@
           <controller ctrl="32" value="17"/>
           <program value="20"/>
           <synti>Fluid</synti>
-          <mute>1</mute>
           <midiPort>0</midiPort>
           <midiChannel>0</midiChannel>
           </Channel>
@@ -252,7 +251,6 @@
           <controller ctrl="32" value="17"/>
           <program value="0"/>
           <synti>Fluid</synti>
-          <mute>1</mute>
           <midiPort>0</midiPort>
           <midiChannel>2</midiChannel>
           </Channel>
@@ -291,7 +289,7 @@
             </Tempo>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>e.phryg.V/iv{</name>
+            <name>e.V/iv{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -651,7 +649,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/III</name>
+            <name>V/III}</name>
             </Harmony>
           <location>
             <fractions>1/2</fractions>
@@ -721,7 +719,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/iii</name>
+            <name>V/iii{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1379,7 +1377,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv[iv}{</name>
+            <name>iv[iv}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1388,6 +1386,16 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV/vii</name>
@@ -1894,7 +1902,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I}{</name>
+            <name>I}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1906,6 +1914,10 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -2439,14 +2451,14 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(4)/iv</name>
+            <name>V(4)/iv}</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/iv</name>
+            <name>V/iv{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -2654,13 +2666,6 @@
             <harmonyType>1</harmonyType>
             <name>III}</name>
             </Harmony>
-          <location>
-            <fractions>1/2</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>{</name>
-            </Harmony>
           </voice>
         <voice>
           <Chord>
@@ -2683,7 +2688,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio64/vii</name>
+            <name>#viio64/vii{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -3654,7 +3659,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -3844,7 +3849,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(64)}</name>
+            <name>I(64)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
