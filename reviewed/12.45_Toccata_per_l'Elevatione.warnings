@@ -1,20 +1,6 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-DCML_HARMONY_INCOMPLETE_PEDAL_COLUMN_WARNING (13,) ms3.Parse.frescobaldi_fiori_musicali.1245_Toccata_per_l'Elevatione
-	propagate_pedal() failed with
-	3 organ points started, 2 ended:
-	   mc pedal    mc pedalend
-	0  14   VII    16        ]
-	1  18     i    19        ]
-	2  21    iv  <NA>      NaN
-DCML_HARMONY_INCOMPLETE_PEDAL_COLUMN_WARNING (13,) ms3.Parse.frescobaldi_fiori_musicali.1245_Toccata_per_l'Elevatione
-	propagate_pedal() failed with
-	3 organ points started, 2 ended:
-	   mc pedal    mc pedalend
-	0  14   VII    16        ]
-	1  18     i    19        ]
-	2  21    iv  <NA>      NaN
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 5, '7/4', '#iio6') ms3.Parse.frescobaldi_fiori_musicali.1245_Toccata_per_l'Elevatione
 	The label '#iio6' in m. 5, onset 7/4 (MC 5, onset 7/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of e.i, it expresses the scale degrees
