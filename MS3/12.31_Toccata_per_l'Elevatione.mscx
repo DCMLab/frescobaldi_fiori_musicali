@@ -2334,7 +2334,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv}{</name>
+            <name>iv</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
