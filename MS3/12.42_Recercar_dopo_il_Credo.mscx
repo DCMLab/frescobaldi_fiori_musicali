@@ -286,6 +286,7 @@
           <Tempo>
             <tempo>3.3333300000000001</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 100</text>
             </Tempo>
           <Harmony>
