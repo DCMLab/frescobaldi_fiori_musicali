@@ -782,7 +782,7 @@ Toccata avanti la Messa della Domenica</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v(b13)/v</name>
+            <name>v(6)/v</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -1294,7 +1294,7 @@ Toccata avanti la Messa della Domenica</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i]</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>

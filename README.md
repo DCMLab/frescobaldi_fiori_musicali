@@ -159,9 +159,9 @@ The same procedure should be applied:
 |12.28_Toccata_avanti_il_Recercar                                       |      13|    60|
 |12.29_Recercar_cromaticho_post_il_Credo                                |      70|   248|
 |12.30_Alto_recercar                                                    |      81|   319|
-|12.31_Toccata_per_l'Elevatione                                         |      33|   130|
+|12.31_Toccata_per_l'Elevatione                                         |      33|   132|
 |12.32_Recercar_con_obligo_del_Basso_come_appare                        |      64|   219|
-|12.33_Canzon_quarti_toni_dopo_il_post_Comune                           |      58|   208|
+|12.33_Canzon_quarti_toni_dopo_il_post_Comune                           |      58|   207|
 |12.34_Toccata_avanti_la_Messa_della_Madonna                            |      12|    38|
 |12.35_Kyrie,_Tema_I                                                    |      12|    42|
 |12.36_Kyrie,_Tema_K                                                    |      13|    46|
@@ -173,7 +173,7 @@ The same procedure should be applied:
 |12.42_Recercar_dopo_il_Credo                                           |      46|   156|
 |12.43_Toccata_avanti_il_Recercar                                       |      14|    38|
 |12.44_Recercar_con_obligo_di_cantare_la_quinta_parte_non_senza_toccarla|      59|   202|
-|12.45_Toccata_per_l'Elevatione                                         |      24|    85|
+|12.45_Toccata_per_l'Elevatione                                         |      24|    86|
 |12.46_Bergamasca                                                       |     124|   415|
 |12.47_Capriccio_sopra_la_Girolmeta                                     |     102|   375|
 

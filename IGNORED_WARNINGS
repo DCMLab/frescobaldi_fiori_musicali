@@ -1,0 +1,36 @@
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 14, '1', 'VII6') ms3.Parse.frescobaldi_fiori_musicali.1206_Christe,_Tema_B,_alio_modo_II
+	The label 'VII6' in m. 14, onset 1 (MC 14, onset 1) is plausible as a follow up for the preceding label.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 4, '1/2', 'III6') ms3.Parse.frescobaldi_fiori_musicali.1209_Kyrie,_Tema_D,_alio_modo_I
+	The label 'III6' in m. 4, onset 1/2 (MC 4, onset 1/2) is plausible
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 14, '1/2', 'vi') ms3.Parse.frescobaldi_fiori_musicali.1217_Canzon_post_il_Comune
+	The label 'vi' in m. 14, onset 1/2 (MC 14, onset 1/2) is plausible
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 40, '1', 'I') ms3.Parse.frescobaldi_fiori_musicali.1217_Canzon_post_il_Comune
+	The label 'I' in m. 40, onset 1 (MC 40, onset 1) is warranted
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 9, '3/2', 'i6') ms3.Parse.frescobaldi_fiori_musicali.1221_Kyrie,_Tema_E_3
+	The label 'i6' in m. 9, onset 3/2 (MC 9, onset 3/2) is correct
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 11, '1/2', 'iv6') ms3.Parse.frescobaldi_fiori_musicali.1223_Christe,_Tema_F_2
+	The label 'iv6' in m. 11, onset 1/2 (MC 11, onset 1/2) is the resolution chord to the previous label of the annotator.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 15, '1/2', 'V(4)/vi') ms3.Parse.frescobaldi_fiori_musicali.1227_Canzon_dopo_l'Epistola
+	The label 'V(4)/vi' in m. 15, onset 1/2 (MC 15, onset 1/2) is part of a progression as decided on by the annotator
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 46, '3/2', 'i6') ms3.Parse.frescobaldi_fiori_musicali.1229_Recercar_cromaticho_post_il_Credo
+	The label 'i6' in m. 46, onset 3/2 (MC 46, onset 3/2) is correct
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 36, '1/4', 'viio6(2)/V') ms3.Parse.frescobaldi_fiori_musicali.1232_Recercar_con_obligo_del_Basso_come_appare
+	The label 'viio6(2)/V' in m. 36, onset 1/4 (MC 36, onset 1/4) is the resolution chord
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 17, '0', 'i{') ms3.Parse.frescobaldi_fiori_musicali.1233_Canzon_quarti_toni_dopo_il_post_Comune
+	The label 'i{' in m. 17, onset 0 (MC 17, onset 0) is warranted as this is a monophonic passage beginning on the tonic
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 2, '3/2', 'III6') ms3.Parse.frescobaldi_fiori_musicali.1237_Christe,_Tema_L
+	The label 'III6' in m. 2, onset 3/2 (MC 2, onset 3/2) is plausible
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 35, '3/4', 'i6(2)') ms3.Parse.frescobaldi_fiori_musicali.1242_Recercar_dopo_il_Credo
+	The label 'i6(2)' in m. 35, onset 3/4 (MC 35, onset 3/4) forms part of a progression labelled by the annotator
+

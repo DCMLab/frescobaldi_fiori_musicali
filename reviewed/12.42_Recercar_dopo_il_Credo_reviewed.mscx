@@ -164,6 +164,7 @@
     <showMargins>0</showMargins>
     <metaTag name="P86 (composer)">Q209212</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1635</metaTag>
     <metaTag name="composed_source">Bärenreiter Verlag (https://imslp.org/wiki/Special:ReverseLookup/39823)</metaTag>
     <metaTag name="composed_start">1635</metaTag>
@@ -286,6 +287,7 @@
           <Tempo>
             <tempo>3.3333300000000001</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <text><sym>metNoteHalfUp</sym> = 100</text>
             </Tempo>
           <Harmony>
