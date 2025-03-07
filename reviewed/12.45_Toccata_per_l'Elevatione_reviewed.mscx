@@ -164,7 +164,6 @@
     <showMargins>0</showMargins>
     <metaTag name="P86 (composer)">Q209212</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1635</metaTag>
     <metaTag name="composed_source">Bärenreiter Verlag (https://imslp.org/wiki/Special:ReverseLookup/39823)</metaTag>
     <metaTag name="composed_start">1635</metaTag>
@@ -290,7 +289,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>e.V/iv{</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -749,13 +747,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>iio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         <voice>
@@ -1598,13 +1590,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>II-vii6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>bII-vii6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -2194,13 +2180,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>iio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -2403,13 +2383,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ii64</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>ii64</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <offset x="0" y="1"/>
@@ -2740,13 +2714,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv(64)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>iv(64)/iv</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2779,13 +2747,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>iv]</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
