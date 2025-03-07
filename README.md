@@ -1,5 +1,5 @@
 ![Version](https://img.shields.io/github/v/release/DCMLab/frescobaldi_fiori_musicali?display_name=tag)
-[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://doi.org/{{ concept_doi }})
+[![DOI](https://zenodo.org/badge/323339384.svg)](https://doi.org/10.5281/zenodo.14984864)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/frescobaldi_fiori_musicali)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
 
@@ -86,7 +86,7 @@ Please [create an issue](https://github.com/DCMLab/frescobaldi_fiori_musicali/is
 
 ## Cite as
 
-_Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Girolamo Frescobaldi (1583-1643) – Fiori Musicali, op. 12 (1635) [Data set]. Zenodo. https://doi.org/{{ concept_doi }}_
+_Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Girolamo Frescobaldi (1583-1643) – Fiori Musicali, op. 12 (1635) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14984864_
 
 ## License
 
