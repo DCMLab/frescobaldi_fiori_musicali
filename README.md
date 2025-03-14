@@ -12,7 +12,7 @@ and serves as welcome page for both
 
 For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/frescobaldi_fiori_musicali/introduction).
 
-# Girolamo Frescobaldi (1583-1643) – Fiori Musicali, op. 12 (1635)
+# Girolamo Frescobaldi (1583-1643) – Fiori Musicali, op. 12 (1635) (A corpus of annotated scores)
 
 Frescobaldi, sometimes organist at St. Peter's Basilica in Rome, composed Fiori Musicali near the beginning of the last
 of these appointments, under the patronage of Pope Urban VIII. These three organ masses, using borrowed chant melodies
@@ -86,7 +86,7 @@ Please [create an issue](https://github.com/DCMLab/frescobaldi_fiori_musicali/is
 
 ## Cite as
 
-_Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Girolamo Frescobaldi (1583-1643) – Fiori Musicali, op. 12 (1635) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14984864_
+> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Girolamo Frescobaldi (1583-1643) – Fiori Musicali, op. 12 (1635) (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14984864
 
 ## License
 
